@@ -9,3 +9,9 @@ His core skills are research and development of new ideas, building proof of con
 Easiest way to reach him is by emailing [ i @ thejeshgn dot com] or [use this form](https://thejeshgn.com/contact/).
 
 You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com/feed) or just the [technology](https://thejeshgn.com/category/technology/feed/) posts.
+
+## Recent Blog posts
+
+* [Tools for Effective Documentation](https://thejeshgn.com/2020/10/16/tools-for-effective-documentation/)
+* [JSONFeed River with CouchDB as Backend](https://thejeshgn.com/2020/09/22/jsonfeed-river-with-couchdb-as-backend/)
+* [Testing Async systems with Karate Testing Framework](https://thejeshgn.com/2020/09/07/testing-async-systems-with-karate-testing-framework/)
