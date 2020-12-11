@@ -12,7 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with RDF using Blazegraph](https://thejeshgn.com/2020/12/11/getting-started-with-rdf-using-blazegraph/)
 - [Coding in 2020 and COVID-19](https://thejeshgn.com/2020/11/29/coding-in-2020-and-covid-19/)
 - [Vaio and Zenbook](https://thejeshgn.com/2020/11/27/vaio-and-zenbook/)
-- [Trying WikiData](https://thejeshgn.com/2020/11/24/trying-wikidata/)
 <!-- BLOG-POST-LIST:END -->
