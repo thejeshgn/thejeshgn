@@ -12,7 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nagarathna Memorial Grant – 2021 Open for Applications](https://thejeshgn.com/2021/01/14/nagarathna-memorial-grant-2021-open-for-applications/)
 - [The Year that was 2020](https://thejeshgn.com/2020/12/31/the-year-that-was-2020/)
 - [Creating an eBook like The Dog We Stole](https://thejeshgn.com/2020/12/21/creating-an-ebook-like-the-dog-we-stole/)
-- [Getting started with RDF using Blazegraph](https://thejeshgn.com/2020/12/11/getting-started-with-rdf-using-blazegraph/)
 <!-- BLOG-POST-LIST:END -->
