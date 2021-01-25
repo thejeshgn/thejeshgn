@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "3"
-                feed_list: "http://feeds.thejeshgn.com/thejeshgn"
+                feed_list: "https://feeds.thejeshgn.com/thejeshgn"
