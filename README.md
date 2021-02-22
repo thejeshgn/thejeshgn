@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indie ReadLater using Mercury Web Scraper, CouchdDB and JSONFeed](https://thejeshgn.com/2021/02/22/indie-readlater-using-mercury-web-scraper-couchddb-and-jsonfeed/)
 - [Linked List: Three FOSS Apps for best Podcast Listening Experience](https://thejeshgn.com/2021/02/17/linked-list-three-foss-apps-for-best-podcast-listening-experience/)
 - [Decoding Google Datastore’s URL Safe Key](https://thejeshgn.com/2021/02/15/decoding-google-datastores-url-safe-key/)
 - [Moving away from Feedburner](https://thejeshgn.com/2021/02/12/moving-away-from-feedburner/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 - [Converting JSON to CSV on the fly](https://thejeshgn.com/2021/02/04/converting-json-to-csv-on-the-fly/)
 - [CLI Tools to Enhance Git Experience](https://thejeshgn.com/2021/02/02/cli-tools-to-enhance-git-experience/)
 - [Nooelec NESDR SMArt + Diamond RH 795 Combo for SDR experiments](https://thejeshgn.com/2021/01/29/nooelec-nesdr-smart-diamond-rh-795-combo-for-sdr-experiments/)
-- [COVID-19 India Vaccination Progress Data](https://thejeshgn.com/2021/01/25/covid-19-india-vaccination-progress-data/)
 <!-- BLOG-POST-LIST:END -->
