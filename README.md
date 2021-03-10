@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linked List: FOSS Android Apps for Ebook Reading](https://thejeshgn.com/2021/03/10/linked-list-foss-android-apps-for-ebook-reading/)
 - [Feb 2021 – Reading Status](https://thejeshgn.com/2021/03/05/feb-2021-reading-status/)
 - [Linked List: FOSS Android Apps for GIT Users](https://thejeshgn.com/2021/03/03/linked-list-foss-android-apps-for-git-users/)
 - [SET Religion = NULL](https://thejeshgn.com/2021/02/28/set-religion-null/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 - [Indie ReadLater using Mercury Web Scraper, CouchdDB and JSONFeed](https://thejeshgn.com/2021/02/22/indie-readlater-using-mercury-web-scraper-couchddb-and-jsonfeed/)
 - [Linked List: Three FOSS Apps for best Podcast Listening Experience](https://thejeshgn.com/2021/02/17/linked-list-three-foss-apps-for-best-podcast-listening-experience/)
 - [Decoding Google Datastore’s URL Safe Key](https://thejeshgn.com/2021/02/15/decoding-google-datastores-url-safe-key/)
-- [Moving away from Feedburner](https://thejeshgn.com/2021/02/12/moving-away-from-feedburner/)
 <!-- BLOG-POST-LIST:END -->
