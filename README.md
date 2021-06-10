@@ -12,12 +12,11 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linked List:  Simple Ways to Contribute to OpenStreetMap](https://thejeshgn.com/2021/03/17/linked-list-simple-ways-to-contribute-to-openstreetmap/)
-- [Linked List: FOSS Android Apps for Ebook Reading](https://thejeshgn.com/2021/03/10/linked-list-foss-android-apps-for-ebook-reading/)
-- [Feb 2021 – Reading Status](https://thejeshgn.com/2021/03/05/feb-2021-reading-status/)
-- [Linked List: FOSS Android Apps for GIT Users](https://thejeshgn.com/2021/03/03/linked-list-foss-android-apps-for-git-users/)
-- [SET Religion = NULL](https://thejeshgn.com/2021/02/28/set-religion-null/)
-- [Linked List: FOSS Download Managers for Everyday Use](https://thejeshgn.com/2021/02/24/linked-list-foss-download-managers-for-everyday-use/)
-- [Indie ReadLater using Mercury Web Scraper, CouchdDB and JSONFeed](https://thejeshgn.com/2021/02/22/indie-readlater-using-mercury-web-scraper-couchddb-and-jsonfeed/)
-- [Linked List: Three FOSS Apps for best Podcast Listening Experience](https://thejeshgn.com/2021/02/17/linked-list-three-foss-apps-for-best-podcast-listening-experience/)
+- [Self-hosted, Always Connect IRC client on Synology](https://thejeshgn.com/2021/06/04/self-hosted-always-connect-irc-client-on-synology/)
+- [India – UDISE Educational Districts and Blocks](https://thejeshgn.com/2021/05/26/india-udise-educational-districts-and-blocks/)
+- [Protomaps – Self Hosted Maps and Map Tiles](https://thejeshgn.com/2021/05/25/protomaps-self-hosted-maps-and-map-tiles/)
+- [Open Data : India Oxygen Shortage Deaths](https://thejeshgn.com/2021/05/18/open-data-india-oxygen-shortage-deaths/)
+- [Updates 2 : NMG/2021 – Delayed again](https://thejeshgn.com/2021/05/14/updates-2-nmg-2021-delayed-again/)
+- [Linked List: Three FOSS Apps for Continuous Learning](https://thejeshgn.com/2021/05/12/linked-list-three-foss-apps-for-continuous-learning/)
+- [Linked List: Three Offline Capable Apps for Emergency Situations](https://thejeshgn.com/2021/05/04/linked-list-three-offline-capable-apps-for-emergency-situations/)
 <!-- BLOG-POST-LIST:END -->
