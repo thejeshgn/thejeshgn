@@ -12,6 +12,10 @@ You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linked List: FOSS Tools to Debug and Test Webhooks](https://thejeshgn.com/2021/07/30/linked-list-foss-tools-to-debug-and-test-webhooks/)
+- [Gwene – Reading RSS feed as Newsgroup](https://thejeshgn.com/2021/07/16/gwene-reading-rss-feed-as-newsgroup/)
+- [Music is back at home with Navidrome and DSub/Ultrasonic](https://thejeshgn.com/2021/07/05/music-is-back-at-home-with-navidrome-and-dsub-ultrasonic/)
+- [Music is back at home with Navidrome and DSub/Ultrasonic](https://thejeshgn.com/2021/07/05/music-is-back-at-home-with-navidrome-and-dsub-ultrasonic/)
 - [Self-hosted, Always Connect IRC client on Synology](https://thejeshgn.com/2021/06/04/self-hosted-always-connect-irc-client-on-synology/)
 - [India – UDISE Educational Districts and Blocks](https://thejeshgn.com/2021/05/26/india-udise-educational-districts-and-blocks/)
 - [Protomaps – Self Hosted Maps and Map Tiles](https://thejeshgn.com/2021/05/25/protomaps-self-hosted-maps-and-map-tiles/)
