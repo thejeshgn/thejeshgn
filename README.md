@@ -8,7 +8,7 @@ His core skills are research and development of new ideas, building proof of con
 
 Easiest way to reach him is by emailing [ i @ thejeshgn dot com] or [use this form](https://thejeshgn.com/contact/).
 
-You can subscribe to his personal blog by RSS: [All posts](https://thejeshgn.com/feed) or just the [technology](https://thejeshgn.com/category/technology/feed/) posts.
+You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejeshgn.com/thejeshgn) or just the [technology](https://feeds.thejeshgn.com/technology) posts.
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
