@@ -12,6 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-<h2> 2022 </h2>
-<ul><li class=""><div class="sya_postcontent"><span class="sya_date">January 12th <span class="sya_sep"> </span></span><a href="https://thejeshgn.com/2022/01/12/web-component-using-vanilla-javascript/" class="sya_postlink post-21391" rel="bookmark">Blogring – Web Component using Vanilla JavaScript</a> <span class="sya_categories"><span class="sya_bracket">(</span>Technology<span class="sya_bracket">)</span></span></div></li><li class=""><div class="sya_postcontent"><span class="sya_date">January 6th <span class="sya_sep"> </span></span><a href="https://thejeshgn.com/2022/01/06/karunaalu-baa-belake/" class="sya_postlink post-21371" rel="bookmark">ಕರುಣಾಳು ಬಾ ಬೆಳಕೆ</a> <span class="sya_categories"><span class="sya_bracket">(</span>Life, ಕನ್ನಡ<span class="sya_bracket">)</span></span></div></li><li class=""><div class="sya_postcontent"><span class="sya_date">January 3rd <span class="sya_sep"> </span></span><a href="https://thejeshgn.com/2022/01/03/sqlline-one-cli-for-connecting-to-relational-databases/" class="sya_postlink post-21274" rel="bookmark">SQLLine – One CLI for connecting to Relational Databases</a> <span class="sya_categories"><span class="sya_bracket">(</span>Technology<span class="sya_bracket">)</span></span></div></li></ul>
+- [Bengaluru Airport &lpar;KIA&rpar; Estimated Wait Time Data](https://thejeshgn.com/2023/01/28/bengaluru-airport-kia-estimated-wait-time-data/)
+- [Weekly Notes 04/2023](https://thejeshgn.com/2023/01/27/weekly-notes-04-2023/)
+- [IKEA Fornuftig Air Purifier Review](https://thejeshgn.com/2023/01/24/ikea-fornuftig-air-purifier-review/)
+- [Weekly Notes 03/2023](https://thejeshgn.com/2023/01/20/weekly-notes-03-2023/)
+- [IDVC 2022 – Final Stats](https://thejeshgn.com/2023/01/19/idvc-2022-final-stats/)
 <!-- BLOG-POST-LIST:END -->
