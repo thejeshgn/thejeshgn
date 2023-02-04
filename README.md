@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 05/2023](https://thejeshgn.com/2023/02/03/weekly-notes-05-2023/)
 - [Bengaluru Airport &lpar;KIA&rpar; Estimated Wait Time Data](https://thejeshgn.com/2023/01/28/bengaluru-airport-kia-estimated-wait-time-data/)
 - [Weekly Notes 04/2023](https://thejeshgn.com/2023/01/27/weekly-notes-04-2023/)
 - [IKEA Fornuftig Air Purifier Review](https://thejeshgn.com/2023/01/24/ikea-fornuftig-air-purifier-review/)
 - [Weekly Notes 03/2023](https://thejeshgn.com/2023/01/20/weekly-notes-03-2023/)
-- [IDVC 2022 – Final Stats](https://thejeshgn.com/2023/01/19/idvc-2022-final-stats/)
 <!-- BLOG-POST-LIST:END -->
