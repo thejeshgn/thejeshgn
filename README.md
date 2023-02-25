@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 08/2023](https://thejeshgn.com/2023/02/24/weekly-notes-08-2023/)
 - [Twenty Years of Engineering Practice](https://thejeshgn.com/2023/02/23/twenty-years-of-engineering-practice/)
 - [Weekly Notes 07/2023](https://thejeshgn.com/2023/02/17/weekly-notes-07-2023/)
 - [Communicating with Minetest Server Using APIs](https://thejeshgn.com/2023/02/14/communicating-with-minetest-server-using-apis/)
 - [Weekly Notes 06/2023](https://thejeshgn.com/2023/02/10/weekly-notes-06-2023/)
-- [Weekly Notes 05/2023](https://thejeshgn.com/2023/02/03/weekly-notes-05-2023/)
 <!-- BLOG-POST-LIST:END -->
