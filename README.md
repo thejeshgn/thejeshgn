@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 10/2023](https://thejeshgn.com/2023/03/10/weekly-notes-10-2023/)
 - [Weekly Notes 09/2023](https://thejeshgn.com/2023/03/03/weekly-notes-09-2023/)
 - [SDR on Android Phone](https://thejeshgn.com/2023/02/28/sdr-on-android-phone/)
 - [Weekly Notes 08/2023](https://thejeshgn.com/2023/02/24/weekly-notes-08-2023/)
 - [Twenty Years of Engineering Practice](https://thejeshgn.com/2023/02/23/twenty-years-of-engineering-practice/)
-- [Weekly Notes 07/2023](https://thejeshgn.com/2023/02/17/weekly-notes-07-2023/)
 <!-- BLOG-POST-LIST:END -->
