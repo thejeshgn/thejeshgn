@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 12/2023](https://thejeshgn.com/2023/03/24/weekly-notes-12-2023/)
 - [ChatGPT’s Fictional Story of Uri Gowda and Nanje Gowda](https://thejeshgn.com/2023/03/20/chatgpts-fictional-story-of-uri-gowda-and-nanje-gowda/)
 - [ChatGPT Hallucinates](https://thejeshgn.com/2023/03/18/chapgpt-hallucinates/)
 - [Weekly Notes 11/2023](https://thejeshgn.com/2023/03/17/weekly-notes-11-2023/)
 - [GPS Logging using GPSLogger and CouchDB](https://thejeshgn.com/2023/03/14/gps-logging-using-gpslogger-and-couchdb/)
-- [St. Thomas Church, Palayur](https://thejeshgn.com/2023/03/11/st-thomas-church-palayur/)
 <!-- BLOG-POST-LIST:END -->
