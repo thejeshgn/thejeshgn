@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 14/2023](https://thejeshgn.com/2023/04/07/weekly-notes-14-2023/)
 - [Linked List: My Set of Personal Protective Equipment](https://thejeshgn.com/2023/04/05/linked-list-my-set-of-personal-protective-equipment/)
 - [Weekly Notes 13/2023](https://thejeshgn.com/2023/03/31/weekly-notes-13-2023/)
 - [Linked List : My Corded Power Tools for Home Lab](https://thejeshgn.com/2023/03/30/linked-list-my-corded-power-tools-for-home-lab/)
 - [Weekly Notes 12/2023](https://thejeshgn.com/2023/03/24/weekly-notes-12-2023/)
-- [ChatGPT’s Fictional Story of Uri Gowda and Nanje Gowda](https://thejeshgn.com/2023/03/20/chatgpts-fictional-story-of-uri-gowda-and-nanje-gowda/)
 <!-- BLOG-POST-LIST:END -->
