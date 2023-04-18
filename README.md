@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Intern](https://thejeshgn.com/2023/04/17/chatgpt-intern/)
 - [Weekly Notes 15/2023](https://thejeshgn.com/2023/04/14/weekly-notes-15-2023/)
 - [Weekly Notes 14/2023](https://thejeshgn.com/2023/04/07/weekly-notes-14-2023/)
 - [Linked List: My Set of Personal Protective Equipment](https://thejeshgn.com/2023/04/05/linked-list-my-set-of-personal-protective-equipment/)
 - [Weekly Notes 13/2023](https://thejeshgn.com/2023/03/31/weekly-notes-13-2023/)
-- [Linked List : My Corded Power Tools for Home Lab](https://thejeshgn.com/2023/03/30/linked-list-my-corded-power-tools-for-home-lab/)
 <!-- BLOG-POST-LIST:END -->
