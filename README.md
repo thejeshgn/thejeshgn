@@ -12,9 +12,9 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 18/2023](https://thejeshgn.com/2023/05/05/weekly-notes-18-2023/)
 - [Weekly Notes 17/2023](https://thejeshgn.com/2023/04/28/weekly-notes-17-2023/)
 - [Weekly Notes 16/2023](https://thejeshgn.com/2023/04/21/weekly-notes-16-2023/)
 - [ChatGPT Intern](https://thejeshgn.com/2023/04/17/chatgpt-intern/)
 - [Weekly Notes 15/2023](https://thejeshgn.com/2023/04/14/weekly-notes-15-2023/)
-- [Weekly Notes 14/2023](https://thejeshgn.com/2023/04/07/weekly-notes-14-2023/)
 <!-- BLOG-POST-LIST:END -->
