@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data: Public,Private and Beyond](https://thejeshgn.com/2023/05/18/data-publicprivate-and-beyond/)
 - [Weekly Notes 19/2023](https://thejeshgn.com/2023/05/12/weekly-notes-19-2023/)
 - [Weekly Notes 18/2023](https://thejeshgn.com/2023/05/05/weekly-notes-18-2023/)
 - [Weekly Notes 17/2023](https://thejeshgn.com/2023/04/28/weekly-notes-17-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [ChatGPT Intern](https://thejeshgn.com/2023/04/17/chatgpt-intern/)
 - [Weekly Notes 15/2023](https://thejeshgn.com/2023/04/14/weekly-notes-15-2023/)
 - [Weekly Notes 14/2023](https://thejeshgn.com/2023/04/07/weekly-notes-14-2023/)
-- [Linked List: My Set of Personal Protective Equipment](https://thejeshgn.com/2023/04/05/linked-list-my-set-of-personal-protective-equipment/)
 <!-- BLOG-POST-LIST:END -->
