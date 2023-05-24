@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up alerts in Digdag for slow or delayed workflow](https://thejeshgn.com/2023/05/23/setting-up-alerts-in-digdag-for-slow-or-delayed-workflow/)
 - [Weekly Notes 20/2023](https://thejeshgn.com/2023/05/19/weekly-notes-20-2023/)
 - [Data: Public, Private and Beyond](https://thejeshgn.com/2023/05/18/data-publicprivate-and-beyond/)
 - [Weekly Notes 19/2023](https://thejeshgn.com/2023/05/12/weekly-notes-19-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 17/2023](https://thejeshgn.com/2023/04/28/weekly-notes-17-2023/)
 - [Weekly Notes 16/2023](https://thejeshgn.com/2023/04/21/weekly-notes-16-2023/)
 - [ChatGPT Intern](https://thejeshgn.com/2023/04/17/chatgpt-intern/)
-- [Weekly Notes 15/2023](https://thejeshgn.com/2023/04/14/weekly-notes-15-2023/)
 <!-- BLOG-POST-LIST:END -->
