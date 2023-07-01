@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 26/2023](https://thejeshgn.com/2023/06/30/weekly-notes-26-2023/)
 - [Twenty Years of Blogging](https://thejeshgn.com/2023/06/26/twenty-years-of-blogging/)
 - [Weekly Notes 25/2023](https://thejeshgn.com/2023/06/23/weekly-notes-25-2023/)
 - [NMG – 2023 – Results](https://thejeshgn.com/2023/06/21/nmg-2023-results/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 24/2023](https://thejeshgn.com/2023/06/16/weekly-notes-24-2023/)
 - [Geek’s way of Setting up EV Charger at Home](https://thejeshgn.com/2023/06/14/geeks-way-of-setting-up-ev-charger-at-home/)
 - [Weekly Notes 23/2023](https://thejeshgn.com/2023/06/09/weekly-notes-23-2023/)
-- [Weekly Notes 22/2023](https://thejeshgn.com/2023/06/02/weekly-notes-22-2023/)
 <!-- BLOG-POST-LIST:END -->
