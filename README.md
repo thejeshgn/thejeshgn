@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 27/2023](https://thejeshgn.com/2023/07/07/weekly-notes-27-2023/)
 - [Weekly Notes 26/2023](https://thejeshgn.com/2023/06/30/weekly-notes-26-2023/)
 - [Twenty Years of Blogging](https://thejeshgn.com/2023/06/26/twenty-years-of-blogging/)
 - [Weekly Notes 25/2023](https://thejeshgn.com/2023/06/23/weekly-notes-25-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Web-Powered Workflows: Fetching and Running Digdag Workflows with Callbacks](https://thejeshgn.com/2023/06/20/web-powered-workflows-fetching-and-running-digdag-workflows-with-callbacks/)
 - [Weekly Notes 24/2023](https://thejeshgn.com/2023/06/16/weekly-notes-24-2023/)
 - [Geek’s way of Setting up EV Charger at Home](https://thejeshgn.com/2023/06/14/geeks-way-of-setting-up-ev-charger-at-home/)
-- [Weekly Notes 23/2023](https://thejeshgn.com/2023/06/09/weekly-notes-23-2023/)
 <!-- BLOG-POST-LIST:END -->
