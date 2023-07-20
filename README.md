@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Road Trips With Dogs](https://thejeshgn.com/2023/07/19/road-trips-with-dogs/)
 - [Weekly Notes 28/2023](https://thejeshgn.com/2023/07/14/weekly-notes-28-2023/)
 - [Who is mapping Surveillance in Bengaluru](https://thejeshgn.com/2023/07/10/who-is-mapping-surveillance-in-bengaluru/)
 - [Weekly Notes 27/2023](https://thejeshgn.com/2023/07/07/weekly-notes-27-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Twenty Years of Blogging](https://thejeshgn.com/2023/06/26/twenty-years-of-blogging/)
 - [Weekly Notes 25/2023](https://thejeshgn.com/2023/06/23/weekly-notes-25-2023/)
 - [NMG – 2023 – Results](https://thejeshgn.com/2023/06/21/nmg-2023-results/)
-- [Web-Powered Workflows: Fetching and Running Digdag Workflows with Callbacks](https://thejeshgn.com/2023/06/20/web-powered-workflows-fetching-and-running-digdag-workflows-with-callbacks/)
 <!-- BLOG-POST-LIST:END -->
