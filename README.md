@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Local Network USB Cam Video Streaming](https://thejeshgn.com/2023/07/27/local-network-usb-cam-video-streaming/)
 - [Weekly Notes 29/2023](https://thejeshgn.com/2023/07/21/weekly-notes-29-2023/)
 - [Road Trips With Dogs](https://thejeshgn.com/2023/07/19/road-trips-with-dogs/)
 - [Weekly Notes 28/2023](https://thejeshgn.com/2023/07/14/weekly-notes-28-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 27/2023](https://thejeshgn.com/2023/07/07/weekly-notes-27-2023/)
 - [Weekly Notes 26/2023](https://thejeshgn.com/2023/06/30/weekly-notes-26-2023/)
 - [Twenty Years of Blogging](https://thejeshgn.com/2023/06/26/twenty-years-of-blogging/)
-- [Weekly Notes 25/2023](https://thejeshgn.com/2023/06/23/weekly-notes-25-2023/)
 <!-- BLOG-POST-LIST:END -->
