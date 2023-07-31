@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go out and enjoy the best weather and air of Bangalore](https://thejeshgn.com/2023/07/30/go-out-and-enjoy-the-best-weather-and-air-of-bangalore/)
 - [Weekly Notes 30/2023](https://thejeshgn.com/2023/07/28/weekly-notes-30-2023/)
 - [Local Network USB Cam Video Streaming](https://thejeshgn.com/2023/07/27/local-network-usb-cam-video-streaming/)
 - [Weekly Notes 29/2023](https://thejeshgn.com/2023/07/21/weekly-notes-29-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 28/2023](https://thejeshgn.com/2023/07/14/weekly-notes-28-2023/)
 - [Who is mapping Surveillance in Bengaluru](https://thejeshgn.com/2023/07/10/who-is-mapping-surveillance-in-bengaluru/)
 - [Weekly Notes 27/2023](https://thejeshgn.com/2023/07/07/weekly-notes-27-2023/)
-- [Weekly Notes 26/2023](https://thejeshgn.com/2023/06/30/weekly-notes-26-2023/)
 <!-- BLOG-POST-LIST:END -->
