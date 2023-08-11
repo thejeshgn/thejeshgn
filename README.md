@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Dynamic PDF reports using Jinja and Gotenberg](https://thejeshgn.com/2023/08/10/creating-dynamic-pdf-reports-using-jinja-and-gotenberg/)
 - [Weekly Notes 31/2023](https://thejeshgn.com/2023/08/04/weekly-notes-31-2023/)
 - [Go out and enjoy the best weather and air of Bangalore](https://thejeshgn.com/2023/07/30/go-out-and-enjoy-the-best-weather-and-air-of-bangalore/)
 - [Weekly Notes 30/2023](https://thejeshgn.com/2023/07/28/weekly-notes-30-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 29/2023](https://thejeshgn.com/2023/07/21/weekly-notes-29-2023/)
 - [Road Trips With Dogs](https://thejeshgn.com/2023/07/19/road-trips-with-dogs/)
 - [Weekly Notes 28/2023](https://thejeshgn.com/2023/07/14/weekly-notes-28-2023/)
-- [Who is mapping Surveillance in Bengaluru](https://thejeshgn.com/2023/07/10/who-is-mapping-surveillance-in-bengaluru/)
 <!-- BLOG-POST-LIST:END -->
