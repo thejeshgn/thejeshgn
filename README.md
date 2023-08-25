@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Baby Gym](https://thejeshgn.com/2023/08/24/building-baby-gym/)
 - [Weekly Notes 33/2023](https://thejeshgn.com/2023/08/18/weekly-notes-33-2023/)
 - [Portable PoIs across Apps](https://thejeshgn.com/2023/08/17/portable-pois-across-apps/)
 - [Weekly Notes 32/2023](https://thejeshgn.com/2023/08/11/weekly-notes-32-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 31/2023](https://thejeshgn.com/2023/08/04/weekly-notes-31-2023/)
 - [Go out and enjoy the best weather and air of Bangalore](https://thejeshgn.com/2023/07/30/go-out-and-enjoy-the-best-weather-and-air-of-bangalore/)
 - [Weekly Notes 30/2023](https://thejeshgn.com/2023/07/28/weekly-notes-30-2023/)
-- [Local Network USB Cam Video Streaming](https://thejeshgn.com/2023/07/27/local-network-usb-cam-video-streaming/)
 <!-- BLOG-POST-LIST:END -->
