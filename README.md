@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using UPS with Synology and Home Assistant using NUT](https://thejeshgn.com/2023/08/31/using-ups-with-synology-and-home-assistant-using-nut/)
 - [Tracking Babies using Baby Buddy](https://thejeshgn.com/2023/08/29/tracking-babies-using-baby-buddy/)
 - [Weekly Notes 34/2023](https://thejeshgn.com/2023/08/25/weekly-notes-34-2023/)
 - [Building Baby Gym](https://thejeshgn.com/2023/08/24/building-baby-gym/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Portable PoIs across Apps](https://thejeshgn.com/2023/08/17/portable-pois-across-apps/)
 - [Weekly Notes 32/2023](https://thejeshgn.com/2023/08/11/weekly-notes-32-2023/)
 - [Creating Dynamic PDF reports using Jinja and Gotenberg](https://thejeshgn.com/2023/08/10/creating-dynamic-pdf-reports-using-jinja-and-gotenberg/)
-- [Weekly Notes 31/2023](https://thejeshgn.com/2023/08/04/weekly-notes-31-2023/)
 <!-- BLOG-POST-LIST:END -->
