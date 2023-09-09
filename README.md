@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 36/2023](https://thejeshgn.com/2023/09/08/weekly-notes-36-2023/)
 - [Roomba Combo j7 with Home Assistant](https://thejeshgn.com/2023/09/07/roomba-combo-j7-with-home-assistant/)
 - [Weekly Notes 35/2023](https://thejeshgn.com/2023/09/01/weekly-notes-35-2023/)
 - [Using UPS with Synology and Home Assistant using NUT](https://thejeshgn.com/2023/08/31/using-ups-with-synology-and-home-assistant-using-nut/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 34/2023](https://thejeshgn.com/2023/08/25/weekly-notes-34-2023/)
 - [Building Baby Gym](https://thejeshgn.com/2023/08/24/building-baby-gym/)
 - [Weekly Notes 33/2023](https://thejeshgn.com/2023/08/18/weekly-notes-33-2023/)
-- [Portable PoIs across Apps](https://thejeshgn.com/2023/08/17/portable-pois-across-apps/)
 <!-- BLOG-POST-LIST:END -->
