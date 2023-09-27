@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickemu – Quick VM using QEMU](https://thejeshgn.com/2023/09/26/quickemu-quick-vm-using-qemu/)
 - [Weekly Notes 38/2023](https://thejeshgn.com/2023/09/22/weekly-notes-38-2023/)
 - [Weekly Notes 37/2023](https://thejeshgn.com/2023/09/15/weekly-notes-37-2023/)
 - [Zoom H1n as a USB Microphone](https://thejeshgn.com/2023/09/14/zoom-h1n-as-a-usb-microphone/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Roomba Combo j7 with Home Assistant](https://thejeshgn.com/2023/09/07/roomba-combo-j7-with-home-assistant/)
 - [Weekly Notes 35/2023](https://thejeshgn.com/2023/09/01/weekly-notes-35-2023/)
 - [Using UPS with Synology and Home Assistant using NUT](https://thejeshgn.com/2023/08/31/using-ups-with-synology-and-home-assistant-using-nut/)
-- [Tracking Babies using Baby Buddy](https://thejeshgn.com/2023/08/29/tracking-babies-using-baby-buddy/)
 <!-- BLOG-POST-LIST:END -->
