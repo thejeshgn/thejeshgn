@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 41/2023](https://thejeshgn.com/2023/10/13/weekly-notes-41-2023/)
 - [43](https://thejeshgn.com/2023/10/12/43/)
 - [EcoFlow River 2 – My Portable Power Station](https://thejeshgn.com/2023/10/09/ecoflow-river-2-my-portable-power-station/)
 - [Weekly Notes 40/2023](https://thejeshgn.com/2023/10/06/weekly-notes-40-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Quickemu – Quick VM using QEMU](https://thejeshgn.com/2023/09/26/quickemu-quick-vm-using-qemu/)
 - [Weekly Notes 38/2023](https://thejeshgn.com/2023/09/22/weekly-notes-38-2023/)
 - [Weekly Notes 37/2023](https://thejeshgn.com/2023/09/15/weekly-notes-37-2023/)
-- [Zoom H1n as a USB Microphone](https://thejeshgn.com/2023/09/14/zoom-h1n-as-a-usb-microphone/)
 <!-- BLOG-POST-LIST:END -->
