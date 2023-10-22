@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 42/2023](https://thejeshgn.com/2023/10/21/weekly-notes-42-2023/)
 - [API Tool – Moving to Bruno](https://thejeshgn.com/2023/10/19/api-tool-moving-to-bruno/)
 - [Weekly Notes 41/2023](https://thejeshgn.com/2023/10/13/weekly-notes-41-2023/)
 - [43](https://thejeshgn.com/2023/10/12/43/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 40/2023](https://thejeshgn.com/2023/10/06/weekly-notes-40-2023/)
 - [Weekly Notes 39/2023](https://thejeshgn.com/2023/09/30/weekly-notes-39-2023/)
 - [Quickemu – Quick VM using QEMU](https://thejeshgn.com/2023/09/26/quickemu-quick-vm-using-qemu/)
-- [Weekly Notes 38/2023](https://thejeshgn.com/2023/09/22/weekly-notes-38-2023/)
 <!-- BLOG-POST-LIST:END -->
