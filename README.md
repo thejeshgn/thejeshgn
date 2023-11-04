@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 44/2023](https://thejeshgn.com/2023/11/03/weekly-notes-44-2023/)
 - [70-Hour Work Week](https://thejeshgn.com/2023/11/01/70-hour-work-week/)
 - [Can you explain “War Crime” like I am 5](https://thejeshgn.com/2023/10/31/can-you-explain-war-crime-like-i-am-5/)
 - [Weekly Notes 43/2023](https://thejeshgn.com/2023/10/27/weekly-notes-43-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 42/2023](https://thejeshgn.com/2023/10/21/weekly-notes-42-2023/)
 - [API Tool – Moving to Bruno](https://thejeshgn.com/2023/10/19/api-tool-moving-to-bruno/)
 - [Weekly Notes 41/2023](https://thejeshgn.com/2023/10/13/weekly-notes-41-2023/)
-- [43](https://thejeshgn.com/2023/10/12/43/)
 <!-- BLOG-POST-LIST:END -->
