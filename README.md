@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 45/2023](https://thejeshgn.com/2023/11/10/weekly-notes-45-2023/)
 - [Building Surveillance in Bangalore leaderboard using Budibase and CouchDB](https://thejeshgn.com/2023/11/07/building-surveillance-in-bangalore-leaderboard-using-budibase-and-couchdb/)
 - [Weekly Notes 44/2023](https://thejeshgn.com/2023/11/03/weekly-notes-44-2023/)
 - [70-Hour Work Week](https://thejeshgn.com/2023/11/01/70-hour-work-week/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 43/2023](https://thejeshgn.com/2023/10/27/weekly-notes-43-2023/)
 - [A-WAY Roof Top Cargo Box for Carens](https://thejeshgn.com/2023/10/26/a-way-roof-top-cargo-box-for-carens/)
 - [Weekly Notes 42/2023](https://thejeshgn.com/2023/10/21/weekly-notes-42-2023/)
-- [API Tool – Moving to Bruno](https://thejeshgn.com/2023/10/19/api-tool-moving-to-bruno/)
 <!-- BLOG-POST-LIST:END -->
