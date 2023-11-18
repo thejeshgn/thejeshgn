@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 46/2023](https://thejeshgn.com/2023/11/17/weekly-notes-46-2023/)
 - [Weekly Notes 45/2023](https://thejeshgn.com/2023/11/10/weekly-notes-45-2023/)
 - [Building Surveillance in Bangalore leaderboard using Budibase and CouchDB](https://thejeshgn.com/2023/11/07/building-surveillance-in-bangalore-leaderboard-using-budibase-and-couchdb/)
 - [Weekly Notes 44/2023](https://thejeshgn.com/2023/11/03/weekly-notes-44-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Can you explain “War Crime” like I am 5](https://thejeshgn.com/2023/10/31/can-you-explain-war-crime-like-i-am-5/)
 - [Weekly Notes 43/2023](https://thejeshgn.com/2023/10/27/weekly-notes-43-2023/)
 - [A-WAY Roof Top Cargo Box for Carens](https://thejeshgn.com/2023/10/26/a-way-roof-top-cargo-box-for-carens/)
-- [Weekly Notes 42/2023](https://thejeshgn.com/2023/10/21/weekly-notes-42-2023/)
 <!-- BLOG-POST-LIST:END -->
