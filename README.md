@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 48/2023](https://thejeshgn.com/2023/12/01/weekly-notes-48-2023/)
 - [Weekly Notes 47/2023](https://thejeshgn.com/2023/11/24/weekly-notes-47-2023/)
 - [Connecting KoboToolbox to CouchDB for Real Time Data](https://thejeshgn.com/2023/11/22/connecting-kobotoolbox-to-couchdb-for-real-time-data/)
 - [Weekly Notes 46/2023](https://thejeshgn.com/2023/11/17/weekly-notes-46-2023/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Building Surveillance in Bangalore leaderboard using Budibase and CouchDB](https://thejeshgn.com/2023/11/07/building-surveillance-in-bangalore-leaderboard-using-budibase-and-couchdb/)
 - [Weekly Notes 44/2023](https://thejeshgn.com/2023/11/03/weekly-notes-44-2023/)
 - [70-Hour Work Week](https://thejeshgn.com/2023/11/01/70-hour-work-week/)
-- [Can you explain “War Crime” like I am 5](https://thejeshgn.com/2023/10/31/can-you-explain-war-crime-like-i-am-5/)
 <!-- BLOG-POST-LIST:END -->
