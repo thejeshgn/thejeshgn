@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 50/2023](https://thejeshgn.com/2023/12/15/weekly-notes-50-2023/)
 - [Anker PowerConf S3 – Speaker Phone Review](https://thejeshgn.com/2023/12/14/anker-powerconf-s3-speaker-phone-review/)
 - [Weekly Notes 49/2023](https://thejeshgn.com/2023/12/08/weekly-notes-49-2023/)
 - [Entry into Parenthood](https://thejeshgn.com/2023/12/05/entry-into-parenthood/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 47/2023](https://thejeshgn.com/2023/11/24/weekly-notes-47-2023/)
 - [Connecting KoboToolbox to CouchDB for Real Time Data](https://thejeshgn.com/2023/11/22/connecting-kobotoolbox-to-couchdb-for-real-time-data/)
 - [Weekly Notes 46/2023](https://thejeshgn.com/2023/11/17/weekly-notes-46-2023/)
-- [Weekly Notes 45/2023](https://thejeshgn.com/2023/11/10/weekly-notes-45-2023/)
 <!-- BLOG-POST-LIST:END -->
