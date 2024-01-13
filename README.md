@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 02/2024](https://thejeshgn.com/2024/01/12/weekly-notes-02-2024/)
 - [Wireless Monitor Setups](https://thejeshgn.com/2024/01/11/wireless-monitor-setups/)
 - [Weekly Notes 01/2024](https://thejeshgn.com/2024/01/05/weekly-notes-01-2024/)
 - [Portable Monitors for productivity on the go](https://thejeshgn.com/2024/01/04/portable-monitors-for-productivity-on-the-go/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 52/2023](https://thejeshgn.com/2023/12/29/weekly-notes-52-2023/)
 - [Weekly Notes 51/2023](https://thejeshgn.com/2023/12/22/weekly-notes-51-2023/)
 - [Smile](https://thejeshgn.com/2023/12/20/smile/)
-- [Weekly Notes 50/2023](https://thejeshgn.com/2023/12/15/weekly-notes-50-2023/)
 <!-- BLOG-POST-LIST:END -->
