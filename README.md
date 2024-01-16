@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nagarathna Memorial Grant – 2024 Open for Applications](https://thejeshgn.com/2024/01/15/nagarathna-memorial-grant-2024-open-for-applications/)
 - [Weekly Notes 02/2024](https://thejeshgn.com/2024/01/12/weekly-notes-02-2024/)
 - [Wireless Monitor Setups](https://thejeshgn.com/2024/01/11/wireless-monitor-setups/)
 - [Weekly Notes 01/2024](https://thejeshgn.com/2024/01/05/weekly-notes-01-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [The Year that was 2023](https://thejeshgn.com/2023/12/31/the-year-that-was-2023/)
 - [Weekly Notes 52/2023](https://thejeshgn.com/2023/12/29/weekly-notes-52-2023/)
 - [Weekly Notes 51/2023](https://thejeshgn.com/2023/12/22/weekly-notes-51-2023/)
-- [Smile](https://thejeshgn.com/2023/12/20/smile/)
 <!-- BLOG-POST-LIST:END -->
