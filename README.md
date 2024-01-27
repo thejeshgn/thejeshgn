@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 04/2024](https://thejeshgn.com/2024/01/26/weekly-notes-04-2024/)
 - [Hosting Books at Home using Calibre Web](https://thejeshgn.com/2024/01/23/hosting-books-at-home-using-calibre-web/)
 - [Two Poems of Kuvempu to mark Today](https://thejeshgn.com/2024/01/22/two-poems-of-kuvempu-to-mark-today/)
 - [Year 2023 in Weekly Pictures](https://thejeshgn.com/2024/01/20/year-2023-in-weekly-pictures/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [My List of Static, Unhosted FOSS Web Apps](https://thejeshgn.com/2024/01/16/my-list-of-static-unhosted-foss-web-apps/)
 - [Nagarathna Memorial Grant – 2024 Open for Applications](https://thejeshgn.com/2024/01/15/nagarathna-memorial-grant-2024-open-for-applications/)
 - [Weekly Notes 02/2024](https://thejeshgn.com/2024/01/12/weekly-notes-02-2024/)
-- [Wireless Monitor Setups](https://thejeshgn.com/2024/01/11/wireless-monitor-setups/)
 <!-- BLOG-POST-LIST:END -->
