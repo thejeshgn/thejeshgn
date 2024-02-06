@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ride to Kumta/Gokarna](https://thejeshgn.com/2024/02/05/ride-to-kumta-gokarna/)
 - [Weekly Notes 05/2024](https://thejeshgn.com/2024/02/02/weekly-notes-05-2024/)
 - [Streaming a Gallery of Images as Video](https://thejeshgn.com/2024/01/30/streaming-a-gallery-of-images-as-video/)
 - [Back in the Saddle after 14 Years : Exploring Lepakshi and Penukonda Fort](https://thejeshgn.com/2024/01/29/back-in-the-saddle-after-14-years-exploring-lepakshi-and-penukonda-fort/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Hosting Books at Home using Calibre Web](https://thejeshgn.com/2024/01/23/hosting-books-at-home-using-calibre-web/)
 - [Two Poems of Kuvempu to mark Today](https://thejeshgn.com/2024/01/22/two-poems-of-kuvempu-to-mark-today/)
 - [Year 2023 in Weekly Pictures](https://thejeshgn.com/2024/01/20/year-2023-in-weekly-pictures/)
-- [Weekly Notes 03/2024](https://thejeshgn.com/2024/01/19/weekly-notes-03-2024/)
 <!-- BLOG-POST-LIST:END -->
