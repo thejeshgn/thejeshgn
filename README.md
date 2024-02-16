@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Honda H’ness CB350](https://thejeshgn.com/2024/02/15/honda-hness-cb350/)
 - [Dubare Elephant Camp with Jungle Lodges](https://thejeshgn.com/2024/02/13/dubare-elephant-camp-with-jungle-lodges/)
 - [Weekly Notes 06/2024](https://thejeshgn.com/2024/02/09/weekly-notes-06-2024/)
 - [Ride to Kumta/Gokarna](https://thejeshgn.com/2024/02/05/ride-to-kumta-gokarna/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Streaming a Gallery of Images as Video](https://thejeshgn.com/2024/01/30/streaming-a-gallery-of-images-as-video/)
 - [Back in the Saddle after 14 Years : Exploring Lepakshi and Penukonda Fort](https://thejeshgn.com/2024/01/29/back-in-the-saddle-after-14-years-exploring-lepakshi-and-penukonda-fort/)
 - [Weekly Notes 04/2024](https://thejeshgn.com/2024/01/26/weekly-notes-04-2024/)
-- [Hosting Books at Home using Calibre Web](https://thejeshgn.com/2024/01/23/hosting-books-at-home-using-calibre-web/)
 <!-- BLOG-POST-LIST:END -->
