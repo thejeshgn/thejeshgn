@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bathtime with My Little One](https://thejeshgn.com/2024/02/28/bathtime-with-my-little-one/)
 - [Weekly Notes 08/2024](https://thejeshgn.com/2024/02/23/weekly-notes-08-2024/)
 - [Mapping Pet Friendly Places in Bengaluru on OpenStreetMap](https://thejeshgn.com/2024/02/19/mapping-pet-friendly-places-in-bengaluru-on-openstreetmap/)
 - [Weekly Notes 07/2024](https://thejeshgn.com/2024/02/16/weekly-notes-07-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Dubare Elephant Camp with Jungle Lodges](https://thejeshgn.com/2024/02/13/dubare-elephant-camp-with-jungle-lodges/)
 - [Weekly Notes 06/2024](https://thejeshgn.com/2024/02/09/weekly-notes-06-2024/)
 - [Ride to Kumta/Gokarna](https://thejeshgn.com/2024/02/05/ride-to-kumta-gokarna/)
-- [Weekly Notes 05/2024](https://thejeshgn.com/2024/02/02/weekly-notes-05-2024/)
 <!-- BLOG-POST-LIST:END -->
