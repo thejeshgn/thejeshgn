@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 11/2024](https://thejeshgn.com/2024/03/15/weekly-notes-11-2024/)
 - [Weekly Notes 10/2024](https://thejeshgn.com/2024/03/08/weekly-notes-10-2024/)
 - [Embedding 360 Degree Panorama Images with Pannellum](https://thejeshgn.com/2024/03/07/embedding-360-degree-panorama-images-with-pannellum/)
 - [Linked List:  FOSS Apps for Tracking Baby Progress](https://thejeshgn.com/2024/03/05/linked-list-foss-apps-for-tracking-baby-progress/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Bathtime with My Little One](https://thejeshgn.com/2024/02/28/bathtime-with-my-little-one/)
 - [Weekly Notes 08/2024](https://thejeshgn.com/2024/02/23/weekly-notes-08-2024/)
 - [Mapping Pet Friendly Places in Bengaluru on OpenStreetMap](https://thejeshgn.com/2024/02/19/mapping-pet-friendly-places-in-bengaluru-on-openstreetmap/)
-- [Weekly Notes 07/2024](https://thejeshgn.com/2024/02/16/weekly-notes-07-2024/)
 <!-- BLOG-POST-LIST:END -->
