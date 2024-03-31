@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sanur Beach Walk](https://thejeshgn.com/2024/03/30/sanur-beach-walk/)
 - [Weekly Notes 13/2024](https://thejeshgn.com/2024/03/29/weekly-notes-13-2024/)
 - [Weekly Notes 12/2024](https://thejeshgn.com/2024/03/22/weekly-notes-12-2024/)
 - [Routine](https://thejeshgn.com/2024/03/20/routine/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 10/2024](https://thejeshgn.com/2024/03/08/weekly-notes-10-2024/)
 - [Embedding 360 Degree Panorama Images with Pannellum](https://thejeshgn.com/2024/03/07/embedding-360-degree-panorama-images-with-pannellum/)
 - [Linked List:  FOSS Apps for Tracking Baby Progress](https://thejeshgn.com/2024/03/05/linked-list-foss-apps-for-tracking-baby-progress/)
-- [Weekly Notes 09/2024](https://thejeshgn.com/2024/03/01/weekly-notes-09-2024/)
 <!-- BLOG-POST-LIST:END -->
