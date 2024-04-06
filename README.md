@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 14/2024](https://thejeshgn.com/2024/04/05/weekly-notes-14-2024/)
 - [Campuhan Ridge Walk – Ubud](https://thejeshgn.com/2024/03/31/campuhan-ridge-walk-ubud/)
 - [Sanur Beach Walk](https://thejeshgn.com/2024/03/30/sanur-beach-walk/)
 - [Weekly Notes 13/2024](https://thejeshgn.com/2024/03/29/weekly-notes-13-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Routine](https://thejeshgn.com/2024/03/20/routine/)
 - [Weekly Notes 11/2024](https://thejeshgn.com/2024/03/15/weekly-notes-11-2024/)
 - [Weekly Notes 10/2024](https://thejeshgn.com/2024/03/08/weekly-notes-10-2024/)
-- [Embedding 360 Degree Panorama Images with Pannellum](https://thejeshgn.com/2024/03/07/embedding-360-degree-panorama-images-with-pannellum/)
 <!-- BLOG-POST-LIST:END -->
