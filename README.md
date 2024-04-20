@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 16/2024](https://thejeshgn.com/2024/04/19/weekly-notes-16-2024/)
 - [NMG – 2024 – Results](https://thejeshgn.com/2024/04/12/nmg-2024-results/)
 - [Weekly Notes 15/2024](https://thejeshgn.com/2024/04/12/weekly-notes-15-2024/)
 - [Building Surveillance in Bangalore leaderboard using Node-Red and CouchDB](https://thejeshgn.com/2024/04/11/building-surveillance-in-bangalore-leaderboard-using-node-red-and-couchdb/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Campuhan Ridge Walk – Ubud](https://thejeshgn.com/2024/03/31/campuhan-ridge-walk-ubud/)
 - [Sanur Beach Walk](https://thejeshgn.com/2024/03/30/sanur-beach-walk/)
 - [Weekly Notes 13/2024](https://thejeshgn.com/2024/03/29/weekly-notes-13-2024/)
-- [Weekly Notes 12/2024](https://thejeshgn.com/2024/03/22/weekly-notes-12-2024/)
 <!-- BLOG-POST-LIST:END -->
