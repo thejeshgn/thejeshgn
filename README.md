@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 18/2024](https://thejeshgn.com/2024/05/03/weekly-notes-18-2024/)
 - [Weekly Notes 17/2024](https://thejeshgn.com/2024/04/26/weekly-notes-17-2024/)
 - [Friends of NMG](https://thejeshgn.com/2024/04/23/friends-of-nmg/)
 - [Be Nice](https://thejeshgn.com/2024/04/22/be-nice/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [NMG – 2024 – Results](https://thejeshgn.com/2024/04/12/nmg-2024-results/)
 - [Weekly Notes 15/2024](https://thejeshgn.com/2024/04/12/weekly-notes-15-2024/)
 - [Building Surveillance in Bangalore leaderboard using Node-Red and CouchDB](https://thejeshgn.com/2024/04/11/building-surveillance-in-bangalore-leaderboard-using-node-red-and-couchdb/)
-- [Weekly Notes 14/2024](https://thejeshgn.com/2024/04/05/weekly-notes-14-2024/)
 <!-- BLOG-POST-LIST:END -->
