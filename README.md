@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 19/2024](https://thejeshgn.com/2024/05/10/weekly-notes-19-2024/)
 - [Exploring STAC Datasets with Browser](https://thejeshgn.com/2024/05/08/exploring-stac-datasets-with-browser/)
 - [Weekly Notes 18/2024](https://thejeshgn.com/2024/05/03/weekly-notes-18-2024/)
 - [Weekly Notes 17/2024](https://thejeshgn.com/2024/04/26/weekly-notes-17-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Be Nice](https://thejeshgn.com/2024/04/22/be-nice/)
 - [Weekly Notes 16/2024](https://thejeshgn.com/2024/04/19/weekly-notes-16-2024/)
 - [NMG – 2024 – Results](https://thejeshgn.com/2024/04/12/nmg-2024-results/)
-- [Weekly Notes 15/2024](https://thejeshgn.com/2024/04/12/weekly-notes-15-2024/)
 <!-- BLOG-POST-LIST:END -->
