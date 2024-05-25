@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 21/2024](https://thejeshgn.com/2024/05/24/weekly-notes-21-2024/)
 - [Weekly Notes 20/2024](https://thejeshgn.com/2024/05/17/weekly-notes-20-2024/)
 - [Echo, Pathu and Uma](https://thejeshgn.com/2024/05/16/echo-pathu-and-uma/)
 - [Weekly Notes 19/2024](https://thejeshgn.com/2024/05/10/weekly-notes-19-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 18/2024](https://thejeshgn.com/2024/05/03/weekly-notes-18-2024/)
 - [Weekly Notes 17/2024](https://thejeshgn.com/2024/04/26/weekly-notes-17-2024/)
 - [Friends of NMG](https://thejeshgn.com/2024/04/23/friends-of-nmg/)
-- [Be Nice](https://thejeshgn.com/2024/04/22/be-nice/)
 <!-- BLOG-POST-LIST:END -->
