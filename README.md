@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 23/2024](https://thejeshgn.com/2024/06/07/weekly-notes-23-2024/)
 - [Weekly Notes 22/2024](https://thejeshgn.com/2024/05/31/weekly-notes-22-2024/)
 - [Syncing Bookmarks using Floccus and Git](https://thejeshgn.com/2024/05/28/syncing-bookmarks-using-floccus-and-git/)
 - [Weekly Notes 21/2024](https://thejeshgn.com/2024/05/24/weekly-notes-21-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Echo, Pathu and Uma](https://thejeshgn.com/2024/05/16/echo-pathu-and-uma/)
 - [Weekly Notes 19/2024](https://thejeshgn.com/2024/05/10/weekly-notes-19-2024/)
 - [Exploring STAC Datasets with Browser](https://thejeshgn.com/2024/05/08/exploring-stac-datasets-with-browser/)
-- [Weekly Notes 18/2024](https://thejeshgn.com/2024/05/03/weekly-notes-18-2024/)
 <!-- BLOG-POST-LIST:END -->
