@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 24/2024](https://thejeshgn.com/2024/06/14/weekly-notes-24-2024/)
 - [Why restore my old Motorcycle?](https://thejeshgn.com/2024/06/11/why-restore-my-old-motorcycle/)
 - [Weekly Notes 23/2024](https://thejeshgn.com/2024/06/07/weekly-notes-23-2024/)
 - [Weekly Notes 22/2024](https://thejeshgn.com/2024/05/31/weekly-notes-22-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 21/2024](https://thejeshgn.com/2024/05/24/weekly-notes-21-2024/)
 - [Weekly Notes 20/2024](https://thejeshgn.com/2024/05/17/weekly-notes-20-2024/)
 - [Echo, Pathu and Uma](https://thejeshgn.com/2024/05/16/echo-pathu-and-uma/)
-- [Weekly Notes 19/2024](https://thejeshgn.com/2024/05/10/weekly-notes-19-2024/)
 <!-- BLOG-POST-LIST:END -->
