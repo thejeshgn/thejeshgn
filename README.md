@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWA 1: AngkorWithAppa begins and we are in Siem Reap](https://thejeshgn.com/2024/06/20/awa-1-angkorwithappa-begins-and-we-are-in-siem-reap/)
 - [Weekly Notes 24/2024](https://thejeshgn.com/2024/06/14/weekly-notes-24-2024/)
 - [Why restore my old Motorcycle?](https://thejeshgn.com/2024/06/11/why-restore-my-old-motorcycle/)
 - [Weekly Notes 23/2024](https://thejeshgn.com/2024/06/07/weekly-notes-23-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Syncing Bookmarks using Floccus and Git](https://thejeshgn.com/2024/05/28/syncing-bookmarks-using-floccus-and-git/)
 - [Weekly Notes 21/2024](https://thejeshgn.com/2024/05/24/weekly-notes-21-2024/)
 - [Weekly Notes 20/2024](https://thejeshgn.com/2024/05/17/weekly-notes-20-2024/)
-- [Echo, Pathu and Uma](https://thejeshgn.com/2024/05/16/echo-pathu-and-uma/)
 <!-- BLOG-POST-LIST:END -->
