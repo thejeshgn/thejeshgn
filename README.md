@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWA 5: Battambang – Killing caves of Phnom Sampeau](https://thejeshgn.com/2024/06/24/awa-5-battambang-killing-caves-of-phnom-sampeau/)
 - [AWA 4: Siem Reap City](https://thejeshgn.com/2024/06/23/awa-4-siem-reap-city/)
 - [AWA 3: Phnom Kulen National Park](https://thejeshgn.com/2024/06/22/awa-3-phnom-kulen-national-park/)
 - [Weekly Notes 25/2024](https://thejeshgn.com/2024/06/21/weekly-notes-25-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [AWA 1: AngkorWithAppa begins and we are in Siem Reap](https://thejeshgn.com/2024/06/20/awa-1-angkorwithappa-begins-and-we-are-in-siem-reap/)
 - [Weekly Notes 24/2024](https://thejeshgn.com/2024/06/14/weekly-notes-24-2024/)
 - [Why restore my old Motorcycle?](https://thejeshgn.com/2024/06/11/why-restore-my-old-motorcycle/)
-- [Weekly Notes 23/2024](https://thejeshgn.com/2024/06/07/weekly-notes-23-2024/)
 <!-- BLOG-POST-LIST:END -->
