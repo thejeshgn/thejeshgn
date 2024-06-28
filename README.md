@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWA 7: Back in Bangalore](https://thejeshgn.com/2024/06/27/awa-7-back-in-bangalore/)
 - [AWA 6: Wat Ek Phnom and Landmine Rats](https://thejeshgn.com/2024/06/25/awa-6-wat-ek-phnom-and-landmine-rats/)
 - [AWA 5: Battambang – Killing caves of Phnom Sampeau](https://thejeshgn.com/2024/06/24/awa-5-battambang-killing-caves-of-phnom-sampeau/)
 - [AWA 4: Siem Reap City](https://thejeshgn.com/2024/06/23/awa-4-siem-reap-city/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 25/2024](https://thejeshgn.com/2024/06/21/weekly-notes-25-2024/)
 - [AWA 2: Angkor Wat and other temples](https://thejeshgn.com/2024/06/21/awa-2-angkor-wat-and-other-temples/)
 - [AWA 1: AngkorWithAppa begins and we are in Siem Reap](https://thejeshgn.com/2024/06/20/awa-1-angkorwithappa-begins-and-we-are-in-siem-reap/)
-- [Weekly Notes 24/2024](https://thejeshgn.com/2024/06/14/weekly-notes-24-2024/)
 <!-- BLOG-POST-LIST:END -->
