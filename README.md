@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 27/2024](https://thejeshgn.com/2024/07/05/weekly-notes-27-2024/)
 - [Grouptabs – Export as CSV](https://thejeshgn.com/2024/07/01/grouptabs-export-as-csv/)
 - [Linked List: FOSS Apps for Bill Splitting with Friends](https://thejeshgn.com/2024/06/29/linked-list-foss-apps-for-bill-splitting-with-friends/)
 - [Weekly Notes 26/2024](https://thejeshgn.com/2024/06/28/weekly-notes-26-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [AWA 6: Wat Ek Phnom and Landmine Rats](https://thejeshgn.com/2024/06/25/awa-6-wat-ek-phnom-and-landmine-rats/)
 - [AWA 5: Battambang – Killing caves of Phnom Sampeau](https://thejeshgn.com/2024/06/24/awa-5-battambang-killing-caves-of-phnom-sampeau/)
 - [AWA 4: Siem Reap City](https://thejeshgn.com/2024/06/23/awa-4-siem-reap-city/)
-- [AWA 3: Phnom Kulen National Park](https://thejeshgn.com/2024/06/22/awa-3-phnom-kulen-national-park/)
 <!-- BLOG-POST-LIST:END -->
