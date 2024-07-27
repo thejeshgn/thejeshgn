@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 30/2024](https://thejeshgn.com/2024/07/26/weekly-notes-30-2024/)
 - [Weekly Notes 29/2024](https://thejeshgn.com/2024/07/19/weekly-notes-29-2024/)
 - [Weekly Notes 28/2024](https://thejeshgn.com/2024/07/12/weekly-notes-28-2024/)
 - [Weekly Notes 27/2024](https://thejeshgn.com/2024/07/05/weekly-notes-27-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Linked List: FOSS Apps for Bill Splitting with Friends](https://thejeshgn.com/2024/06/29/linked-list-foss-apps-for-bill-splitting-with-friends/)
 - [Weekly Notes 26/2024](https://thejeshgn.com/2024/06/28/weekly-notes-26-2024/)
 - [AWA 7: Back in Bangalore](https://thejeshgn.com/2024/06/27/awa-7-back-in-bangalore/)
-- [AWA 6: Wat Ek Phnom and Landmine Rats](https://thejeshgn.com/2024/06/25/awa-6-wat-ek-phnom-and-landmine-rats/)
 <!-- BLOG-POST-LIST:END -->
