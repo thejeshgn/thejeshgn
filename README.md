@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 31/2024](https://thejeshgn.com/2024/08/02/weekly-notes-31-2024/)
 - [Ruizu X52](https://thejeshgn.com/2024/07/30/ruizu-x52/)
 - [Weekly Notes 30/2024](https://thejeshgn.com/2024/07/26/weekly-notes-30-2024/)
 - [Weekly Notes 29/2024](https://thejeshgn.com/2024/07/19/weekly-notes-29-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 27/2024](https://thejeshgn.com/2024/07/05/weekly-notes-27-2024/)
 - [Grouptabs – Export as CSV](https://thejeshgn.com/2024/07/01/grouptabs-export-as-csv/)
 - [Linked List: FOSS Apps for Bill Splitting with Friends](https://thejeshgn.com/2024/06/29/linked-list-foss-apps-for-bill-splitting-with-friends/)
-- [Weekly Notes 26/2024](https://thejeshgn.com/2024/06/28/weekly-notes-26-2024/)
 <!-- BLOG-POST-LIST:END -->
