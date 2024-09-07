@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 36/2024](https://thejeshgn.com/2024/09/06/weekly-notes-36-2024/)
 - [Yamaha Restoration Project](https://thejeshgn.com/2024/08/31/yamaha-restoration-project/)
 - [Weekly Notes 35/2024](https://thejeshgn.com/2024/08/30/weekly-notes-35-2024/)
 - [Weekly Notes 34/2024](https://thejeshgn.com/2024/08/23/weekly-notes-34-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Creating Maps using uMap](https://thejeshgn.com/2024/08/14/creating-maps-using-umap/)
 - [Weekly Notes 32/2024](https://thejeshgn.com/2024/08/09/weekly-notes-32-2024/)
 - [Weekly Notes 31/2024](https://thejeshgn.com/2024/08/02/weekly-notes-31-2024/)
-- [Ruizu X52](https://thejeshgn.com/2024/07/30/ruizu-x52/)
 <!-- BLOG-POST-LIST:END -->
