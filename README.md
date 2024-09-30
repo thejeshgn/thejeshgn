@@ -12,7 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Notes 40/2024](https://thejeshgn.com/2024/09/27/weekly-notes-40-2024/)
+- [Weekly Notes 39/2024](https://thejeshgn.com/2024/09/27/weekly-notes-40-2024/)
 - [Baby Radio](https://thejeshgn.com/2024/09/26/baby-radio/)
 - [Weekly Notes 38/2024](https://thejeshgn.com/2024/09/20/weekly-notes-38-2024/)
 - [Pookalam – Onam, 2024](https://thejeshgn.com/2024/09/15/pookalam-onam-2024/)
