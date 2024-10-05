@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 40/2024](https://thejeshgn.com/2024/10/04/weekly-notes-40-2024-2/)
 - [AI Generated Podcast](https://thejeshgn.com/2024/10/01/ai-generated-podcast/)
 - [Weekly Notes 39/2024](https://thejeshgn.com/2024/09/27/weekly-notes-40-2024/)
 - [Baby Radio](https://thejeshgn.com/2024/09/26/baby-radio/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Pookalam – Onam, 2024](https://thejeshgn.com/2024/09/15/pookalam-onam-2024/)
 - [Weekly Notes 37/2024](https://thejeshgn.com/2024/09/14/weekly-notes-37-2024/)
 - [Simple IMD Alerts](https://thejeshgn.com/2024/09/11/simple-imd-alerts/)
-- [Weekly Notes 36/2024](https://thejeshgn.com/2024/09/06/weekly-notes-36-2024/)
 <!-- BLOG-POST-LIST:END -->
