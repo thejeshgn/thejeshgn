@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amphere EV – Reo Li Plus](https://thejeshgn.com/2024/10/21/amphere-ev-reo-li-plus/)
 - [Weekly Notes 42/2024](https://thejeshgn.com/2024/10/18/weekly-notes-42-2024/)
 - [44](https://thejeshgn.com/2024/10/12/44/)
 - [Weekly Notes 41/2024](https://thejeshgn.com/2024/10/11/weekly-notes-41-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 40/2024](https://thejeshgn.com/2024/10/04/weekly-notes-40-2024-2/)
 - [AI Generated Podcast](https://thejeshgn.com/2024/10/01/ai-generated-podcast/)
 - [Weekly Notes 39/2024](https://thejeshgn.com/2024/09/27/weekly-notes-40-2024/)
-- [Baby Radio](https://thejeshgn.com/2024/09/26/baby-radio/)
 <!-- BLOG-POST-LIST:END -->
