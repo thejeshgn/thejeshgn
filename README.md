@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Review: BluArmor C30 Mesh Intercom For Bikers](https://thejeshgn.com/2024/10/30/review-bluarmor-c30-mesh-intercom-for-bikers/)
 - [Weekly Notes 43/2024](https://thejeshgn.com/2024/10/25/weekly-notes-43-2024/)
 - [Amphere EV – Reo Li Plus](https://thejeshgn.com/2024/10/21/amphere-ev-reo-li-plus/)
 - [Weekly Notes 42/2024](https://thejeshgn.com/2024/10/18/weekly-notes-42-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 41/2024](https://thejeshgn.com/2024/10/11/weekly-notes-41-2024/)
 - [Riding again to Valparai](https://thejeshgn.com/2024/10/07/riding-again-to-valparai/)
 - [Weekly Notes 40/2024](https://thejeshgn.com/2024/10/04/weekly-notes-40-2024-2/)
-- [AI Generated Podcast](https://thejeshgn.com/2024/10/01/ai-generated-podcast/)
 <!-- BLOG-POST-LIST:END -->
