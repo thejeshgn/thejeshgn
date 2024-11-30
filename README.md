@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 48/2024](https://thejeshgn.com/2024/11/29/weekly-notes-48-2024/)
 - [Review: TripMachine’s Derby Rusty Wrangler Riding Boots](https://thejeshgn.com/2024/11/27/review-tripmachines-derby-rusty-wrangler-riding-boots/)
 - [Weekly Notes 47/2024](https://thejeshgn.com/2024/11/22/weekly-notes-47-2024/)
 - [RIP Tejas AP](https://thejeshgn.com/2024/11/18/rip-tejas-ap/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 45/2024](https://thejeshgn.com/2024/11/08/weekly-notes-45-2024/)
 - [Minding My Business](https://thejeshgn.com/2024/11/03/minding-my-business/)
 - [Weekly Notes 44/2024](https://thejeshgn.com/2024/11/01/weekly-notes-44-2024/)
-- [Review: BluArmor C30 Mesh Intercom For Bikers](https://thejeshgn.com/2024/10/30/review-bluarmor-c30-mesh-intercom-for-bikers/)
 <!-- BLOG-POST-LIST:END -->
