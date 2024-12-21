@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 51/2024](https://thejeshgn.com/2024/12/20/weekly-notes-51-2024/)
 - [Weekly Notes 50/2024](https://thejeshgn.com/2024/12/13/weekly-notes-50-2024/)
 - [Weekly Notes 49/2024](https://thejeshgn.com/2024/12/06/weekly-notes-49-2024/)
 - [Weekly Notes 48/2024](https://thejeshgn.com/2024/11/29/weekly-notes-48-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 47/2024](https://thejeshgn.com/2024/11/22/weekly-notes-47-2024/)
 - [RIP Tejas AP](https://thejeshgn.com/2024/11/18/rip-tejas-ap/)
 - [Weekly Notes 46/2024](https://thejeshgn.com/2024/11/15/weekly-notes-46-2024/)
-- [Weekly Notes 45/2024](https://thejeshgn.com/2024/11/08/weekly-notes-45-2024/)
 <!-- BLOG-POST-LIST:END -->
