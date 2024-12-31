@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Review: TripMachine’s Rambler Backpack Pannier](https://thejeshgn.com/2024/12/30/review-tripmachines-rambler-backpack-pannier/)
 - [MMS](https://thejeshgn.com/2024/12/29/mms/)
 - [Weekly Notes 52/2024](https://thejeshgn.com/2024/12/27/weekly-notes-52-2024/)
 - [Weekly Notes 51/2024](https://thejeshgn.com/2024/12/20/weekly-notes-51-2024/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 49/2024](https://thejeshgn.com/2024/12/06/weekly-notes-49-2024/)
 - [Weekly Notes 48/2024](https://thejeshgn.com/2024/11/29/weekly-notes-48-2024/)
 - [Review: TripMachine’s Derby Rusty Wrangler Riding Boots](https://thejeshgn.com/2024/11/27/review-tripmachines-derby-rusty-wrangler-riding-boots/)
-- [Weekly Notes 47/2024](https://thejeshgn.com/2024/11/22/weekly-notes-47-2024/)
 <!-- BLOG-POST-LIST:END -->
