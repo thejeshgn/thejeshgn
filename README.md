@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Year 2024 in Weekly Pictures](https://thejeshgn.com/2025/01/02/year-2024-in-weekly-pictures/)
 - [The Year that was 2024](https://thejeshgn.com/2024/12/31/the-year-that-was-2024/)
 - [Review: TripMachine’s Rambler Backpack Pannier](https://thejeshgn.com/2024/12/30/review-tripmachines-rambler-backpack-pannier/)
 - [MMS](https://thejeshgn.com/2024/12/29/mms/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 51/2024](https://thejeshgn.com/2024/12/20/weekly-notes-51-2024/)
 - [Weekly Notes 50/2024](https://thejeshgn.com/2024/12/13/weekly-notes-50-2024/)
 - [Weekly Notes 49/2024](https://thejeshgn.com/2024/12/06/weekly-notes-49-2024/)
-- [Weekly Notes 48/2024](https://thejeshgn.com/2024/11/29/weekly-notes-48-2024/)
 <!-- BLOG-POST-LIST:END -->
