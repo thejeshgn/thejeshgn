@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nagarathna Memorial Grant – 2025 Open for Applications](https://thejeshgn.com/2025/01/15/nagarathna-memorial-grant-2025-open-for-applications/)
 - [Weekly Notes 02/2025](https://thejeshgn.com/2025/01/10/weekly-notes-02-2025/)
 - [Small Update to NMG](https://thejeshgn.com/2025/01/08/small-update-to-nmg/)
 - [Weekly Notes 01/2025](https://thejeshgn.com/2025/01/03/weekly-notes-01-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [The Year that was 2024](https://thejeshgn.com/2024/12/31/the-year-that-was-2024/)
 - [Review: TripMachine’s Rambler Backpack Pannier](https://thejeshgn.com/2024/12/30/review-tripmachines-rambler-backpack-pannier/)
 - [MMS](https://thejeshgn.com/2024/12/29/mms/)
-- [Weekly Notes 52/2024](https://thejeshgn.com/2024/12/27/weekly-notes-52-2024/)
 <!-- BLOG-POST-LIST:END -->
