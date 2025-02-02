@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dogs of Varanasi Ghats](https://thejeshgn.com/2025/02/01/dogs-of-varanasi-ghats/)
 - [Weekly Notes 05/2025](https://thejeshgn.com/2025/01/31/weekly-notes-05-2025/)
 - [Weekly Notes 04/2025](https://thejeshgn.com/2025/01/24/weekly-notes-04-2025/)
 - [Weekly Notes 03/2025](https://thejeshgn.com/2025/01/17/weekly-notes-03-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 02/2025](https://thejeshgn.com/2025/01/10/weekly-notes-02-2025/)
 - [Small Update to NMG](https://thejeshgn.com/2025/01/08/small-update-to-nmg/)
 - [Weekly Notes 01/2025](https://thejeshgn.com/2025/01/03/weekly-notes-01-2025/)
-- [Year 2024 in Weekly Pictures](https://thejeshgn.com/2025/01/02/year-2024-in-weekly-pictures/)
 <!-- BLOG-POST-LIST:END -->
