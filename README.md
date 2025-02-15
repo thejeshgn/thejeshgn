@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 07/2025](https://thejeshgn.com/2025/02/14/weekly-notes-07-2025/)
 - [Weekly Notes 06/2025](https://thejeshgn.com/2025/02/07/weekly-notes-06-2025/)
 - [Maha KumbhMela 2025](https://thejeshgn.com/2025/02/07/maha-kumbhmela-2025/)
 - [Dogs of Varanasi Ghats](https://thejeshgn.com/2025/02/01/dogs-of-varanasi-ghats/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 04/2025](https://thejeshgn.com/2025/01/24/weekly-notes-04-2025/)
 - [Weekly Notes 03/2025](https://thejeshgn.com/2025/01/17/weekly-notes-03-2025/)
 - [Nagarathna Memorial Grant – 2025 Open for Applications](https://thejeshgn.com/2025/01/15/nagarathna-memorial-grant-2025-open-for-applications/)
-- [Weekly Notes 02/2025](https://thejeshgn.com/2025/01/10/weekly-notes-02-2025/)
 <!-- BLOG-POST-LIST:END -->
