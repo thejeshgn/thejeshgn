@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 11/2025](https://thejeshgn.com/2025/03/14/weekly-notes-11-2025/)
 - [Weekly Notes 10/2025](https://thejeshgn.com/2025/03/07/weekly-notes-10-2025/)
 - [Weekly Notes 09/2025](https://thejeshgn.com/2025/02/28/weekly-notes-09-2025/)
 - [A challenge of blog questions](https://thejeshgn.com/2025/02/27/a-challenge-of-blog-questions/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 07/2025](https://thejeshgn.com/2025/02/14/weekly-notes-07-2025/)
 - [Weekly Notes 06/2025](https://thejeshgn.com/2025/02/07/weekly-notes-06-2025/)
 - [Maha KumbhMela 2025](https://thejeshgn.com/2025/02/07/maha-kumbhmela-2025/)
-- [Dogs of Varanasi Ghats](https://thejeshgn.com/2025/02/01/dogs-of-varanasi-ghats/)
 <!-- BLOG-POST-LIST:END -->
