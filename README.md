@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/)
 - [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/)
 - [Installing Enhet Wall Cabinet](https://thejeshgn.com/2025/04/06/installing-enhet-wall-cabinet/)
 - [Weekly Notes 14/2025](https://thejeshgn.com/2025/04/04/weekly-notes-14-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Contributing to beaconDB](https://thejeshgn.com/2025/03/27/contributing-to-beacondb/)
 - [Weekly Notes 12/2025](https://thejeshgn.com/2025/03/21/weekly-notes-12-2025/)
 - [Shutting down my Mastodon instance](https://thejeshgn.com/2025/03/20/shutting-down-my-mastodon-instance/)
-- [Langkawi](https://thejeshgn.com/2025/03/18/langkawi/)
 <!-- BLOG-POST-LIST:END -->
