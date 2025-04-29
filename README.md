@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ThinkPad T14s Gen 6 &lpar;AMD&rpar;](https://thejeshgn.com/2025/04/28/thinkpad-t14s-gen-6-amd/)
 - [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/)
 - [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/)
 - [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 14/2025](https://thejeshgn.com/2025/04/04/weekly-notes-14-2025/)
 - [Weekly Notes 13/2025](https://thejeshgn.com/2025/03/28/weekly-notes-13-2025/)
 - [Contributing to beaconDB](https://thejeshgn.com/2025/03/27/contributing-to-beacondb/)
-- [Weekly Notes 12/2025](https://thejeshgn.com/2025/03/21/weekly-notes-12-2025/)
 <!-- BLOG-POST-LIST:END -->
