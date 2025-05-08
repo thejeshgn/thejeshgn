@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nagarathna Memorial Grant – 2025 – Results](https://thejeshgn.com/2025/05/07/nagarathna-memorial-grant-2025-results/)
 - [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/)
 - [ThinkPad T14s Gen 6 &lpar;AMD&rpar;](https://thejeshgn.com/2025/04/28/thinkpad-t14s-gen-6-amd/)
 - [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/)
 - [Installing Enhet Wall Cabinet](https://thejeshgn.com/2025/04/06/installing-enhet-wall-cabinet/)
 - [Weekly Notes 14/2025](https://thejeshgn.com/2025/04/04/weekly-notes-14-2025/)
-- [Weekly Notes 13/2025](https://thejeshgn.com/2025/03/28/weekly-notes-13-2025/)
 <!-- BLOG-POST-LIST:END -->
