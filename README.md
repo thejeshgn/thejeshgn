@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linked List: FOSS Apps for Sharing Files between Devices](https://thejeshgn.com/2025/05/12/linked-list-foss-apps-for-sharing-files-between-devices/)
 - [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
 - [Nagarathna Memorial Grant – 2025 – Results](https://thejeshgn.com/2025/05/07/nagarathna-memorial-grant-2025-results/)
 - [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/)
 - [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/)
 - [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/)
-- [Installing Enhet Wall Cabinet](https://thejeshgn.com/2025/04/06/installing-enhet-wall-cabinet/)
 <!-- BLOG-POST-LIST:END -->
