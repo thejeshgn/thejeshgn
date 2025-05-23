@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is My Political View in 2025?](https://thejeshgn.com/2025/05/22/what-is-my-political-view-in-2025/)
 - [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
 - [Linked List: FOSS Apps for Sharing Files between Devices](https://thejeshgn.com/2025/05/12/linked-list-foss-apps-for-sharing-files-between-devices/)
 - [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/)
 - [ThinkPad T14s Gen 6 &lpar;AMD&rpar;](https://thejeshgn.com/2025/04/28/thinkpad-t14s-gen-6-amd/)
 - [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/)
-- [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/)
 <!-- BLOG-POST-LIST:END -->
