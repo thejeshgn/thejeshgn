@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speech Note: App for Offline Speech to Text, TTS, and Translation](https://thejeshgn.com/2025/05/26/speech-note-app-for-offline-speech-to-text-tts-and-translation/)
 - [Weekly Notes 21/2025](https://thejeshgn.com/2025/05/23/weekly-notes-21-2025/)
 - [What is My Political View in 2025?](https://thejeshgn.com/2025/05/22/what-is-my-political-view-in-2025/)
 - [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
 - [Nagarathna Memorial Grant – 2025 – Results](https://thejeshgn.com/2025/05/07/nagarathna-memorial-grant-2025-results/)
 - [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/)
-- [ThinkPad T14s Gen 6 &lpar;AMD&rpar;](https://thejeshgn.com/2025/04/28/thinkpad-t14s-gen-6-amd/)
 <!-- BLOG-POST-LIST:END -->
