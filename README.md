@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
 - [Common Alerting Protocol &lpar;CAP&rpar; in the Indian Context](https://thejeshgn.com/2025/05/28/common-alerting-protocol-cap-in-the-indian-context/)
 - [Speech Note: App for Offline Speech to Text, TTS, and Translation](https://thejeshgn.com/2025/05/26/speech-note-app-for-offline-speech-to-text-tts-and-translation/)
 - [Weekly Notes 21/2025](https://thejeshgn.com/2025/05/23/weekly-notes-21-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
 - [Linked List: FOSS Apps for Sharing Files between Devices](https://thejeshgn.com/2025/05/12/linked-list-foss-apps-for-sharing-files-between-devices/)
 - [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
-- [Nagarathna Memorial Grant – 2025 – Results](https://thejeshgn.com/2025/05/07/nagarathna-memorial-grant-2025-results/)
 <!-- BLOG-POST-LIST:END -->
