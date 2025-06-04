@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Local Music, Global Discovery](https://thejeshgn.com/2025/06/03/local-music-global-discovery/)
 - [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
 - [Common Alerting Protocol &lpar;CAP&rpar; in the Indian Context](https://thejeshgn.com/2025/05/28/common-alerting-protocol-cap-in-the-indian-context/)
 - [Speech Note: App for Offline Speech to Text, TTS, and Translation](https://thejeshgn.com/2025/05/26/speech-note-app-for-offline-speech-to-text-tts-and-translation/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [What is My Political View in 2025?](https://thejeshgn.com/2025/05/22/what-is-my-political-view-in-2025/)
 - [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
 - [Linked List: FOSS Apps for Sharing Files between Devices](https://thejeshgn.com/2025/05/12/linked-list-foss-apps-for-sharing-files-between-devices/)
-- [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
 <!-- BLOG-POST-LIST:END -->
