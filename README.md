@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Impressions of Sarvam Indic Translate Model](https://thejeshgn.com/2025/06/10/first-impressions-of-sarvam-indic-translate-model/)
 - [Weekly Notes 23/2025](https://thejeshgn.com/2025/06/06/weekly-notes-23-2025/)
 - [Local Music, Global Discovery](https://thejeshgn.com/2025/06/03/local-music-global-discovery/)
 - [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Speech Note: App for Offline Speech to Text, TTS, and Translation](https://thejeshgn.com/2025/05/26/speech-note-app-for-offline-speech-to-text-tts-and-translation/)
 - [Weekly Notes 21/2025](https://thejeshgn.com/2025/05/23/weekly-notes-21-2025/)
 - [What is My Political View in 2025?](https://thejeshgn.com/2025/05/22/what-is-my-political-view-in-2025/)
-- [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
 <!-- BLOG-POST-LIST:END -->
