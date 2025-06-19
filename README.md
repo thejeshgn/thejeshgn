@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedding models for Kannada](https://thejeshgn.com/2025/06/18/embedding-models-for-kannada/)
 - [Weekly Notes 24/2025](https://thejeshgn.com/2025/06/14/weekly-notes-24-2025/)
 - [Walking, Talking, Writing: A Blog Post Experiment](https://thejeshgn.com/2025/06/12/walking-talking-writing-a-blog-post-experiment/)
 - [First Impressions of Sarvam Indic Translate Model](https://thejeshgn.com/2025/06/10/first-impressions-of-sarvam-indic-translate-model/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Local Music, Global Discovery](https://thejeshgn.com/2025/06/03/local-music-global-discovery/)
 - [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
 - [Common Alerting Protocol &lpar;CAP&rpar; in the Indian Context](https://thejeshgn.com/2025/05/28/common-alerting-protocol-cap-in-the-indian-context/)
-- [Speech Note: App for Offline Speech to Text, TTS, and Translation](https://thejeshgn.com/2025/05/26/speech-note-app-for-offline-speech-to-text-tts-and-translation/)
 <!-- BLOG-POST-LIST:END -->
