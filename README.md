@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 25/2025](https://thejeshgn.com/2025/06/20/weekly-notes-25-2025/)
 - [Embedding models for Kannada](https://thejeshgn.com/2025/06/18/embedding-models-for-kannada/)
 - [Weekly Notes 24/2025](https://thejeshgn.com/2025/06/14/weekly-notes-24-2025/)
 - [Walking, Talking, Writing: A Blog Post Experiment](https://thejeshgn.com/2025/06/12/walking-talking-writing-a-blog-post-experiment/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 23/2025](https://thejeshgn.com/2025/06/06/weekly-notes-23-2025/)
 - [Local Music, Global Discovery](https://thejeshgn.com/2025/06/03/local-music-global-discovery/)
 - [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
-- [Common Alerting Protocol &lpar;CAP&rpar; in the Indian Context](https://thejeshgn.com/2025/05/28/common-alerting-protocol-cap-in-the-indian-context/)
 <!-- BLOG-POST-LIST:END -->
