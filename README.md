@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Godless but not joyless](https://thejeshgn.com/2025/06/22/godless-but-not-joyless/)
 - [Weekly Notes 25/2025](https://thejeshgn.com/2025/06/20/weekly-notes-25-2025/)
 - [Embedding models for Kannada](https://thejeshgn.com/2025/06/18/embedding-models-for-kannada/)
 - [Weekly Notes 24/2025](https://thejeshgn.com/2025/06/14/weekly-notes-24-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [First Impressions of Sarvam Indic Translate Model](https://thejeshgn.com/2025/06/10/first-impressions-of-sarvam-indic-translate-model/)
 - [Weekly Notes 23/2025](https://thejeshgn.com/2025/06/06/weekly-notes-23-2025/)
 - [Local Music, Global Discovery](https://thejeshgn.com/2025/06/03/local-music-global-discovery/)
-- [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
 <!-- BLOG-POST-LIST:END -->
