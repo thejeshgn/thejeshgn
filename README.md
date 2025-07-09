@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Local LanguageTool With Eloquent and LibreOffice](https://thejeshgn.com/2025/07/08/local-languagetool-with-eloquent-and-libreoffice/)
 - [Weekly Notes 27/2025](https://thejeshgn.com/2025/07/04/weekly-notes-27-2025/)
 - [Cinema Sundays with My Parents](https://thejeshgn.com/2025/07/03/cinema-sundays-with-my-parents/)
 - [Weekly Notes 26/2025](https://thejeshgn.com/2025/06/27/weekly-notes-26-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 25/2025](https://thejeshgn.com/2025/06/20/weekly-notes-25-2025/)
 - [Embedding models for Kannada](https://thejeshgn.com/2025/06/18/embedding-models-for-kannada/)
 - [Weekly Notes 24/2025](https://thejeshgn.com/2025/06/14/weekly-notes-24-2025/)
-- [Walking, Talking, Writing: A Blog Post Experiment](https://thejeshgn.com/2025/06/12/walking-talking-writing-a-blog-post-experiment/)
 <!-- BLOG-POST-LIST:END -->
