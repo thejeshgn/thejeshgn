@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [There won’t be another Emergency](https://thejeshgn.com/2025/07/14/there-wont-be-another-emergency/)
 - [Weekly Notes 28/2025](https://thejeshgn.com/2025/07/11/weekly-notes-28-2025/)
 - [Local LanguageTool With Eloquent and LibreOffice](https://thejeshgn.com/2025/07/08/local-languagetool-with-eloquent-and-libreoffice/)
 - [Weekly Notes 27/2025](https://thejeshgn.com/2025/07/04/weekly-notes-27-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 26/2025](https://thejeshgn.com/2025/06/27/weekly-notes-26-2025/)
 - [Godless but not joyless](https://thejeshgn.com/2025/06/22/godless-but-not-joyless/)
 - [Weekly Notes 25/2025](https://thejeshgn.com/2025/06/20/weekly-notes-25-2025/)
-- [Embedding models for Kannada](https://thejeshgn.com/2025/06/18/embedding-models-for-kannada/)
 <!-- BLOG-POST-LIST:END -->
