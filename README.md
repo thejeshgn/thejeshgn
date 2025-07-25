@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jotheyali – Web Playlist Player](https://thejeshgn.com/2025/07/24/jotheyali-web-playlist-player/)
 - [Weekly Notes 29/2025](https://thejeshgn.com/2025/07/18/weekly-notes-29-2025/)
 - [Intentional Observation](https://thejeshgn.com/2025/07/17/intentional-observation/)
 - [There won’t be another Emergency](https://thejeshgn.com/2025/07/14/there-wont-be-another-emergency/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Local LanguageTool With Eloquent and LibreOffice](https://thejeshgn.com/2025/07/08/local-languagetool-with-eloquent-and-libreoffice/)
 - [Weekly Notes 27/2025](https://thejeshgn.com/2025/07/04/weekly-notes-27-2025/)
 - [Cinema Sundays with My Parents](https://thejeshgn.com/2025/07/03/cinema-sundays-with-my-parents/)
-- [Weekly Notes 26/2025](https://thejeshgn.com/2025/06/27/weekly-notes-26-2025/)
 <!-- BLOG-POST-LIST:END -->
