@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Prompt to Report](https://thejeshgn.com/2025/08/06/from-prompt-to-report/)
 - [Weekly Notes 31/2025](https://thejeshgn.com/2025/08/01/weekly-notes-31-2025/)
 - [Power on the Go](https://thejeshgn.com/2025/07/30/power-on-the-go/)
 - [Weekly Notes 30/2025](https://thejeshgn.com/2025/07/25/weekly-notes-30-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 29/2025](https://thejeshgn.com/2025/07/18/weekly-notes-29-2025/)
 - [Intentional Observation](https://thejeshgn.com/2025/07/17/intentional-observation/)
 - [There won’t be another Emergency](https://thejeshgn.com/2025/07/14/there-wont-be-another-emergency/)
-- [Weekly Notes 28/2025](https://thejeshgn.com/2025/07/11/weekly-notes-28-2025/)
 <!-- BLOG-POST-LIST:END -->
