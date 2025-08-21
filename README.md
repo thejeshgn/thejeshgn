@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copy to Learn, Try Till You Master](https://thejeshgn.com/2025/08/20/copy-to-learn-try-till-you-master/)
 - [Weekly Notes 33/2025](https://thejeshgn.com/2025/08/15/weekly-notes-33-2025/)
 - [Stress](https://thejeshgn.com/2025/08/12/stress/)
 - [Weekly Notes 32/2025](https://thejeshgn.com/2025/08/08/weekly-notes-32-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 31/2025](https://thejeshgn.com/2025/08/01/weekly-notes-31-2025/)
 - [Power on the Go](https://thejeshgn.com/2025/07/30/power-on-the-go/)
 - [Weekly Notes 30/2025](https://thejeshgn.com/2025/07/25/weekly-notes-30-2025/)
-- [Jotheyali – Web Playlist Player](https://thejeshgn.com/2025/07/24/jotheyali-web-playlist-player/)
 <!-- BLOG-POST-LIST:END -->
