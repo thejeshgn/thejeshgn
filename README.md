@@ -12,12 +12,12 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ಭಾನು ಮುಶ್ತಾಕ್ ಹಾಗು ದಸರಾ ಹಬ್ಬ](https://thejeshgn.com/2025/09/20/banu-mushtaq-and-dasara-habba/)
+- [Banu Mushtaq and Dasara](https://thejeshgn.com/2025/09/20/banu-mushtaq-and-dasara/)
 - [Weekly Notes 38/2025](https://thejeshgn.com/2025/09/19/weekly-notes-38-2025/)
 - [Weekly Notes 37/2025](https://thejeshgn.com/2025/09/12/weekly-notes-37-2025/)
 - [Data from Bengaluru – Where Do You Work From?](https://thejeshgn.com/2025/09/06/data-from-bengaluru-where-do-you-work-from/)
 - [Weekly Notes 36/2025](https://thejeshgn.com/2025/09/05/weekly-notes-36-2025/)
 - [Weekly Notes 35/2025](https://thejeshgn.com/2025/08/29/weekly-notes-35-2025/)
 - [Weekly Notes 34/2025](https://thejeshgn.com/2025/08/22/weekly-notes-34-2025/)
-- [Copy to Learn, Try Till You Master](https://thejeshgn.com/2025/08/20/copy-to-learn-try-till-you-master/)
-- [Weekly Notes 33/2025](https://thejeshgn.com/2025/08/15/weekly-notes-33-2025/)
 <!-- BLOG-POST-LIST:END -->
