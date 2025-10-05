@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ನಾನು ಹಿಂದೂ ಅಲ್ಲ. ವಿಶ್ವ ಮಾನವ](https://thejeshgn.com/2025/10/05/naa-hindu-alla-vishwa-manava/)
 - [Weekly Notes 40/2025](https://thejeshgn.com/2025/10/03/weekly-notes-40-2025/)
 - [Weekly Notes 39/2025](https://thejeshgn.com/2025/09/26/weekly-notes-39-2025/)
 - [Jaipur Palace and Coffee](https://thejeshgn.com/2025/09/25/jaipur-palace-and-coffee/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Banu Mushtaq and Dasara](https://thejeshgn.com/2025/09/20/banu-mushtaq-and-dasara/)
 - [Weekly Notes 38/2025](https://thejeshgn.com/2025/09/19/weekly-notes-38-2025/)
 - [Weekly Notes 37/2025](https://thejeshgn.com/2025/09/12/weekly-notes-37-2025/)
-- [Data from Bengaluru – Where Do You Work From?](https://thejeshgn.com/2025/09/06/data-from-bengaluru-where-do-you-work-from/)
 <!-- BLOG-POST-LIST:END -->
