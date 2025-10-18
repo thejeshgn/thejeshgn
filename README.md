@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 42/2025](https://thejeshgn.com/2025/10/17/weekly-notes-42-2025/)
 - [Kumarakom Backwaters](https://thejeshgn.com/2025/10/14/kumarakom-backwaters/)
 - [45](https://thejeshgn.com/2025/10/12/45/)
 - [Weekly Notes 41/2025](https://thejeshgn.com/2025/10/10/weekly-notes-41-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [ನಾನು ಹಿಂದೂ ಅಲ್ಲ. ವಿಶ್ವ ಮಾನವ](https://thejeshgn.com/2025/10/05/naa-hindu-alla-vishwa-manava/)
 - [Weekly Notes 40/2025](https://thejeshgn.com/2025/10/03/weekly-notes-40-2025/)
 - [Weekly Notes 39/2025](https://thejeshgn.com/2025/09/26/weekly-notes-39-2025/)
-- [Jaipur Palace and Coffee](https://thejeshgn.com/2025/09/25/jaipur-palace-and-coffee/)
 <!-- BLOG-POST-LIST:END -->
