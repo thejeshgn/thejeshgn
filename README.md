@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 44/2025](https://thejeshgn.com/2025/10/31/weekly-notes-44-2025/)
 - [Simple and Easy Background Tasks with Dramatiq](https://thejeshgn.com/2025/10/30/simple-and-easy-background-tasks-with-dramatiq/)
 - [Weekly Notes 43/2025](https://thejeshgn.com/2025/10/24/weekly-notes-43-2025/)
 - [Homecooked UPI Shopping Cart for Slow Commerce](https://thejeshgn.com/2025/10/23/homecooked-upi-shopping-cart-for-slow-commerce/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Kumarakom Backwaters](https://thejeshgn.com/2025/10/14/kumarakom-backwaters/)
 - [45](https://thejeshgn.com/2025/10/12/45/)
 - [Weekly Notes 41/2025](https://thejeshgn.com/2025/10/10/weekly-notes-41-2025/)
-- [Skepticism and Wonder Begins at Home](https://thejeshgn.com/2025/10/09/skepticism-and-wonder-begins-at-home/)
 <!-- BLOG-POST-LIST:END -->
