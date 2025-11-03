@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Send Dramatiq Tasks directly by Pushing JSON to Redis](https://thejeshgn.com/2025/11/03/send-dramatiq-tasks-directly-by-pushing-json-to-redis/)
 - [Weekly Notes 44/2025](https://thejeshgn.com/2025/10/31/weekly-notes-44-2025/)
 - [Simple and Easy Background Tasks with Dramatiq](https://thejeshgn.com/2025/10/30/simple-and-easy-background-tasks-with-dramatiq/)
 - [Weekly Notes 43/2025](https://thejeshgn.com/2025/10/24/weekly-notes-43-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 42/2025](https://thejeshgn.com/2025/10/17/weekly-notes-42-2025/)
 - [Kumarakom Backwaters](https://thejeshgn.com/2025/10/14/kumarakom-backwaters/)
 - [45](https://thejeshgn.com/2025/10/12/45/)
-- [Weekly Notes 41/2025](https://thejeshgn.com/2025/10/10/weekly-notes-41-2025/)
 <!-- BLOG-POST-LIST:END -->
