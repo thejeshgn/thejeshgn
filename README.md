@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Work, Hard Work, and Stupid Work](https://thejeshgn.com/2025/11/11/work-hard-work-and-stupid-work/)
 - [Weekly Notes 45/2025](https://thejeshgn.com/2025/11/07/weekly-notes-45-2025/)
 - [David MacMillan and James Robinson at IISc](https://thejeshgn.com/2025/11/05/david-macmillan-and-james-robinson-at-iisc/)
 - [Send Dramatiq Tasks directly by Pushing JSON to Redis](https://thejeshgn.com/2025/11/03/send-dramatiq-tasks-directly-by-pushing-json-to-redis/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Simple and Easy Background Tasks with Dramatiq](https://thejeshgn.com/2025/10/30/simple-and-easy-background-tasks-with-dramatiq/)
 - [Weekly Notes 43/2025](https://thejeshgn.com/2025/10/24/weekly-notes-43-2025/)
 - [Homecooked UPI Shopping Cart for Slow Commerce](https://thejeshgn.com/2025/10/23/homecooked-upi-shopping-cart-for-slow-commerce/)
-- [Weekly Notes 42/2025](https://thejeshgn.com/2025/10/17/weekly-notes-42-2025/)
 <!-- BLOG-POST-LIST:END -->
