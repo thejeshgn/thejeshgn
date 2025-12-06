@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 49/2025](https://thejeshgn.com/2025/12/05/weekly-notes-49-2025/)
 - [Ride to Kuvempu’s Kuppalli](https://thejeshgn.com/2025/12/02/ride-to-kuvempus-kuppalli/)
 - [Weekly Notes 48/2025](https://thejeshgn.com/2025/11/28/weekly-notes-48-2025/)
 - [Review: Scala Viper Gloves – Black Neon](https://thejeshgn.com/2025/11/25/review-scala-viper-gloves-black-neon/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekend ride to Kurubarahalli](https://thejeshgn.com/2025/11/16/weekend-ride-to-kurubarahalli/)
 - [Weekly Notes 46/2025](https://thejeshgn.com/2025/11/14/weekly-notes-46-2025/)
 - [Work, Hard Work, and Stupid Work](https://thejeshgn.com/2025/11/11/work-hard-work-and-stupid-work/)
-- [Weekly Notes 45/2025](https://thejeshgn.com/2025/11/07/weekly-notes-45-2025/)
 <!-- BLOG-POST-LIST:END -->
