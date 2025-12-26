@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning My Laptops into a Dask Distributed Cluster](https://thejeshgn.com/2025/12/25/turning-my-laptops-into-a-dask-distributed-cluster/)
 - [Weekly Notes 51/2025](https://thejeshgn.com/2025/12/19/weekly-notes-51-2025/)
 - [30 Days of Watercoloring](https://thejeshgn.com/2025/12/16/30-days-of-watercolroing/)
 - [Weekly Notes 50/2025](https://thejeshgn.com/2025/12/12/weekly-notes-50-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 49/2025](https://thejeshgn.com/2025/12/05/weekly-notes-49-2025/)
 - [Ride to Kuvempu’s Kuppalli](https://thejeshgn.com/2025/12/02/ride-to-kuvempus-kuppalli/)
 - [Weekly Notes 48/2025](https://thejeshgn.com/2025/11/28/weekly-notes-48-2025/)
-- [Review: Scala Viper Gloves – Black Neon](https://thejeshgn.com/2025/11/25/review-scala-viper-gloves-black-neon/)
 <!-- BLOG-POST-LIST:END -->
