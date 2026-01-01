@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Year that was 2025](https://thejeshgn.com/2025/12/31/the-year-that-was-2025/)
 - [Weekly Notes 52/2025](https://thejeshgn.com/2025/12/26/weekly-notes-52-2025/)
 - [Review: ViaTerra’s Wayne Urban Riding Jacket](https://thejeshgn.com/2025/12/26/review-viaterras-wayne-urban-riding-jacket/)
 - [Turning My Laptops into a Dask Distributed Cluster](https://thejeshgn.com/2025/12/25/turning-my-laptops-into-a-dask-distributed-cluster/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [30 Days of Watercoloring](https://thejeshgn.com/2025/12/16/30-days-of-watercolroing/)
 - [Weekly Notes 50/2025](https://thejeshgn.com/2025/12/12/weekly-notes-50-2025/)
 - [Mapping My Motorcycle Ride Through Songs](https://thejeshgn.com/2025/12/08/mapping-my-motorcycle-ride-through-songs/)
-- [Weekly Notes 49/2025](https://thejeshgn.com/2025/12/05/weekly-notes-49-2025/)
 <!-- BLOG-POST-LIST:END -->
