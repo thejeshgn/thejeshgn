@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 02/2026](https://thejeshgn.com/2026/01/09/weekly-notes-02-2026/)
 - [Weekly Notes 01/2026](https://thejeshgn.com/2026/01/02/weekly-notes-01-2026/)
 - [The Year that was 2025](https://thejeshgn.com/2025/12/31/the-year-that-was-2025/)
 - [Weekly Notes 52/2025](https://thejeshgn.com/2025/12/26/weekly-notes-52-2025/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Turning My Laptops into a Dask Distributed Cluster](https://thejeshgn.com/2025/12/25/turning-my-laptops-into-a-dask-distributed-cluster/)
 - [Weekly Notes 51/2025](https://thejeshgn.com/2025/12/19/weekly-notes-51-2025/)
 - [30 Days of Watercoloring](https://thejeshgn.com/2025/12/16/30-days-of-watercolroing/)
-- [Weekly Notes 50/2025](https://thejeshgn.com/2025/12/12/weekly-notes-50-2025/)
 <!-- BLOG-POST-LIST:END -->
