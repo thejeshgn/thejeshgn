@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nagarathna Memorial Grant – 2026 Open for Applications](https://thejeshgn.com/2026/01/15/nagarathna-memorial-grant-2026-open-for-applications/)
 - [Fantasy Consoles and the Joy of Limits](https://thejeshgn.com/2026/01/13/fantasy-consoles-and-the-joy-of-limits/)
 - [Weekly Notes 02/2026](https://thejeshgn.com/2026/01/09/weekly-notes-02-2026/)
 - [Weekly Notes 01/2026](https://thejeshgn.com/2026/01/02/weekly-notes-01-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 52/2025](https://thejeshgn.com/2025/12/26/weekly-notes-52-2025/)
 - [Review: ViaTerra’s Wayne Urban Riding Jacket](https://thejeshgn.com/2025/12/26/review-viaterras-wayne-urban-riding-jacket/)
 - [Turning My Laptops into a Dask Distributed Cluster](https://thejeshgn.com/2025/12/25/turning-my-laptops-into-a-dask-distributed-cluster/)
-- [Weekly Notes 51/2025](https://thejeshgn.com/2025/12/19/weekly-notes-51-2025/)
 <!-- BLOG-POST-LIST:END -->
