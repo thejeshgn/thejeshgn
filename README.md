@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 06/2026](https://thejeshgn.com/2026/02/06/weekly-notes-06-2026/)
 - [Weekly Notes 05/2026](https://thejeshgn.com/2026/01/30/weekly-notes-05-2026/)
 - [Weekly Notes 04/2026](https://thejeshgn.com/2026/01/23/weekly-notes-04-2026/)
 - [Back to Basics on an old Bike](https://thejeshgn.com/2026/01/21/back-to-basics-on-an-old-bike/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 03/2026](https://thejeshgn.com/2026/01/16/weekly-notes-03-2026/)
 - [Nagarathna Memorial Grant – 2026 Open for Applications](https://thejeshgn.com/2026/01/15/nagarathna-memorial-grant-2026-open-for-applications/)
 - [Fantasy Consoles and the Joy of Limits](https://thejeshgn.com/2026/01/13/fantasy-consoles-and-the-joy-of-limits/)
-- [Weekly Notes 02/2026](https://thejeshgn.com/2026/01/09/weekly-notes-02-2026/)
 <!-- BLOG-POST-LIST:END -->
