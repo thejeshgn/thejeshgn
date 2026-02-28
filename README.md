@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 09/2026](https://thejeshgn.com/2026/02/27/weekly-notes-09-2026/)
 - [Weekly Notes 08/2026](https://thejeshgn.com/2026/02/20/weekly-notes-08-2026/)
 - [Weekly Notes 07/2026](https://thejeshgn.com/2026/02/13/weekly-notes-07-2026/)
 - [My Journey Back to Being Pain-Free](https://thejeshgn.com/2026/02/09/my-journey-back-to-being-pain-free/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 06/2026](https://thejeshgn.com/2026/02/06/weekly-notes-06-2026/)
 - [Weekly Notes 05/2026](https://thejeshgn.com/2026/01/30/weekly-notes-05-2026/)
 - [Weekly Notes 04/2026](https://thejeshgn.com/2026/01/23/weekly-notes-04-2026/)
-- [Back to Basics on an old Bike](https://thejeshgn.com/2026/01/21/back-to-basics-on-an-old-bike/)
 <!-- BLOG-POST-LIST:END -->
