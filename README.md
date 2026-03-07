@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 10/2026](https://thejeshgn.com/2026/03/06/weekly-notes-10-2026/)
 - [ಅನ್ಯಮತೀಯ](https://thejeshgn.com/2026/03/04/anyamatiya/)
 - [Big Loop Ride in a Day](https://thejeshgn.com/2026/03/01/big-loop-ride-in-a-day/)
 - [Weekly Notes 09/2026](https://thejeshgn.com/2026/02/27/weekly-notes-09-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 07/2026](https://thejeshgn.com/2026/02/13/weekly-notes-07-2026/)
 - [My Journey Back to Being Pain-Free](https://thejeshgn.com/2026/02/09/my-journey-back-to-being-pain-free/)
 - [Motorola T82 Extreme is my PMR446 Walkie-Talkie](https://thejeshgn.com/2026/02/09/motorola-t82-extreme-is-my-pmr446-walkie-talkie/)
-- [Weekly Notes 06/2026](https://thejeshgn.com/2026/02/06/weekly-notes-06-2026/)
 <!-- BLOG-POST-LIST:END -->
