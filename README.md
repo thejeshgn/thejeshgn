@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [30 Days of Watercoloring is Complete](https://thejeshgn.com/2026/03/11/30-days-of-watercoloring-is-complete/)
 - [Running Bash programs on Moodle CodeRunner](https://thejeshgn.com/2026/03/09/running-bash-programs-on-moodle-coderunner/)
 - [Weekly Notes 10/2026](https://thejeshgn.com/2026/03/06/weekly-notes-10-2026/)
 - [ಅನ್ಯಮತೀಯ](https://thejeshgn.com/2026/03/04/anyamatiya/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 09/2026](https://thejeshgn.com/2026/02/27/weekly-notes-09-2026/)
 - [Weekly Notes 08/2026](https://thejeshgn.com/2026/02/20/weekly-notes-08-2026/)
 - [Weekly Notes 07/2026](https://thejeshgn.com/2026/02/13/weekly-notes-07-2026/)
-- [My Journey Back to Being Pain-Free](https://thejeshgn.com/2026/02/09/my-journey-back-to-being-pain-free/)
 <!-- BLOG-POST-LIST:END -->
