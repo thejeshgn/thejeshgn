@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sydney City Walk](https://thejeshgn.com/2026/04/05/sydney-city-walk/)
 - [Weekly Notes 14/2026](https://thejeshgn.com/2026/04/03/weekly-notes-14-2026/)
 - [Koala](https://thejeshgn.com/2026/03/31/koala/)
 - [Weekly Notes 13/2026](https://thejeshgn.com/2026/03/27/weekly-notes-13-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Review: Rynox Navigator Hydration Backpack](https://thejeshgn.com/2026/03/18/review-rynox-navigator-hydration-backpack/)
 - [Weekly Notes 11/2026](https://thejeshgn.com/2026/03/13/weekly-notes-11-2026/)
 - [30 Days of Watercoloring is Complete](https://thejeshgn.com/2026/03/11/30-days-of-watercoloring-is-complete/)
-- [Running Bash programs on Moodle CodeRunner](https://thejeshgn.com/2026/03/09/running-bash-programs-on-moodle-coderunner/)
 <!-- BLOG-POST-LIST:END -->
