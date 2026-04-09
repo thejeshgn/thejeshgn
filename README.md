@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekend drive to Camden](https://thejeshgn.com/2026/04/08/weekend-drive-to-camden/)
 - [Uma’s first proper trail walk at Bidjigal Reserve](https://thejeshgn.com/2026/04/06/umas-first-proper-trail-walk-at-bidjigal-reserve/)
 - [Sydney City Walk](https://thejeshgn.com/2026/04/05/sydney-city-walk/)
 - [Weekly Notes 14/2026](https://thejeshgn.com/2026/04/03/weekly-notes-14-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 13/2026](https://thejeshgn.com/2026/03/27/weekly-notes-13-2026/)
 - [Weekly Notes 12/2026](https://thejeshgn.com/2026/03/21/weekly-notes-12-2026/)
 - [Review: Rynox Navigator Hydration Backpack](https://thejeshgn.com/2026/03/18/review-rynox-navigator-hydration-backpack/)
-- [Weekly Notes 11/2026](https://thejeshgn.com/2026/03/13/weekly-notes-11-2026/)
 <!-- BLOG-POST-LIST:END -->
