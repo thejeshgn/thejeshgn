@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 16/2026](https://thejeshgn.com/2026/04/18/weekly-notes-16-2026/)
 - [Bees on the Balcony](https://thejeshgn.com/2026/04/14/bees-on-the-balcony/)
 - [Weekly Notes 15/2026](https://thejeshgn.com/2026/04/10/weekly-notes-15-2026/)
 - [Weekend drive to Camden](https://thejeshgn.com/2026/04/08/weekend-drive-to-camden/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Sydney City Walk](https://thejeshgn.com/2026/04/05/sydney-city-walk/)
 - [Weekly Notes 14/2026](https://thejeshgn.com/2026/04/03/weekly-notes-14-2026/)
 - [Koala](https://thejeshgn.com/2026/03/31/koala/)
-- [Weekly Notes 13/2026](https://thejeshgn.com/2026/03/27/weekly-notes-13-2026/)
 <!-- BLOG-POST-LIST:END -->
