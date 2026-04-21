@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [30 Days of DXing](https://thejeshgn.com/2026/04/20/30-days-of-dxing/)
 - [Weekly Notes 16/2026](https://thejeshgn.com/2026/04/18/weekly-notes-16-2026/)
 - [Bees on the Balcony](https://thejeshgn.com/2026/04/14/bees-on-the-balcony/)
 - [Weekly Notes 15/2026](https://thejeshgn.com/2026/04/10/weekly-notes-15-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Uma’s first proper trail walk at Bidjigal Reserve](https://thejeshgn.com/2026/04/06/umas-first-proper-trail-walk-at-bidjigal-reserve/)
 - [Sydney City Walk](https://thejeshgn.com/2026/04/05/sydney-city-walk/)
 - [Weekly Notes 14/2026](https://thejeshgn.com/2026/04/03/weekly-notes-14-2026/)
-- [Koala](https://thejeshgn.com/2026/03/31/koala/)
 <!-- BLOG-POST-LIST:END -->
