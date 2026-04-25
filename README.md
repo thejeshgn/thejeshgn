@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 17/2026](https://thejeshgn.com/2026/04/24/weekly-notes-17-2026/)
 - [Nagarathna Memorial Grant – 2026 – Results](https://thejeshgn.com/2026/04/22/nagarathna-memorial-grant-2026-results/)
 - [30 Days of DXing](https://thejeshgn.com/2026/04/20/30-days-of-dxing/)
 - [Weekly Notes 16/2026](https://thejeshgn.com/2026/04/18/weekly-notes-16-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 15/2026](https://thejeshgn.com/2026/04/10/weekly-notes-15-2026/)
 - [Weekend drive to Camden](https://thejeshgn.com/2026/04/08/weekend-drive-to-camden/)
 - [Uma’s first proper trail walk at Bidjigal Reserve](https://thejeshgn.com/2026/04/06/umas-first-proper-trail-walk-at-bidjigal-reserve/)
-- [Sydney City Walk](https://thejeshgn.com/2026/04/05/sydney-city-walk/)
 <!-- BLOG-POST-LIST:END -->
