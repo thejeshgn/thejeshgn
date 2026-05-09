@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 19/2026](https://thejeshgn.com/2026/05/08/weekly-notes-19-2026/)
 - [Weekly Notes 18/2026](https://thejeshgn.com/2026/05/01/weekly-notes-18-2026/)
 - [Weekly Notes 17/2026](https://thejeshgn.com/2026/04/24/weekly-notes-17-2026/)
 - [Nagarathna Memorial Grant – 2026 – Results](https://thejeshgn.com/2026/04/22/nagarathna-memorial-grant-2026-results/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 16/2026](https://thejeshgn.com/2026/04/18/weekly-notes-16-2026/)
 - [Bees on the Balcony](https://thejeshgn.com/2026/04/14/bees-on-the-balcony/)
 - [Weekly Notes 15/2026](https://thejeshgn.com/2026/04/10/weekly-notes-15-2026/)
-- [Weekend drive to Camden](https://thejeshgn.com/2026/04/08/weekend-drive-to-camden/)
 <!-- BLOG-POST-LIST:END -->
