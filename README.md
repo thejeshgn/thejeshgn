@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 21/2026](https://thejeshgn.com/2026/05/22/weekly-notes-21-2026/)
 - [Embedding user code in your app using Extism](https://thejeshgn.com/2026/05/19/embedding-user-code-in-your-app-using-extism/)
 - [Weekly Notes 20/2026](https://thejeshgn.com/2026/05/15/weekly-notes-20-2026/)
 - [Weekly Notes 19/2026](https://thejeshgn.com/2026/05/08/weekly-notes-19-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 17/2026](https://thejeshgn.com/2026/04/24/weekly-notes-17-2026/)
 - [Nagarathna Memorial Grant – 2026 – Results](https://thejeshgn.com/2026/04/22/nagarathna-memorial-grant-2026-results/)
 - [30 Days of DXing](https://thejeshgn.com/2026/04/20/30-days-of-dxing/)
-- [Weekly Notes 16/2026](https://thejeshgn.com/2026/04/18/weekly-notes-16-2026/)
 <!-- BLOG-POST-LIST:END -->
