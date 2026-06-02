@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Micro-granting in India – BoF at IndiaFOSS/2026](https://thejeshgn.com/2026/06/01/micro-granting-in-india-bof-at-indiafoss-2026/)
 - [Weekly Notes 22/2026](https://thejeshgn.com/2026/05/29/weekly-notes-22-2026/)
 - [Weekly Notes 21/2026](https://thejeshgn.com/2026/05/22/weekly-notes-21-2026/)
 - [Embedding user code in your app using Extism](https://thejeshgn.com/2026/05/19/embedding-user-code-in-your-app-using-extism/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 19/2026](https://thejeshgn.com/2026/05/08/weekly-notes-19-2026/)
 - [Weekly Notes 18/2026](https://thejeshgn.com/2026/05/01/weekly-notes-18-2026/)
 - [Weekly Notes 17/2026](https://thejeshgn.com/2026/04/24/weekly-notes-17-2026/)
-- [Nagarathna Memorial Grant – 2026 – Results](https://thejeshgn.com/2026/04/22/nagarathna-memorial-grant-2026-results/)
 <!-- BLOG-POST-LIST:END -->
