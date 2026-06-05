@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who Calls a Child Anti-National?](https://thejeshgn.com/2026/06/04/who-calls-a-child-anti-national/)
 - [Micro-granting in India – BoF at IndiaFOSS/2026](https://thejeshgn.com/2026/06/01/micro-granting-in-india-bof-at-indiafoss-2026/)
 - [Weekly Notes 22/2026](https://thejeshgn.com/2026/05/29/weekly-notes-22-2026/)
 - [Weekly Notes 21/2026](https://thejeshgn.com/2026/05/22/weekly-notes-21-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 20/2026](https://thejeshgn.com/2026/05/15/weekly-notes-20-2026/)
 - [Weekly Notes 19/2026](https://thejeshgn.com/2026/05/08/weekly-notes-19-2026/)
 - [Weekly Notes 18/2026](https://thejeshgn.com/2026/05/01/weekly-notes-18-2026/)
-- [Weekly Notes 17/2026](https://thejeshgn.com/2026/04/24/weekly-notes-17-2026/)
 <!-- BLOG-POST-LIST:END -->
