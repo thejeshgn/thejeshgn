@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Epicure the Food Embedding Model](https://thejeshgn.com/2026/06/11/exploring-epicure-the-food-embedding-model/)
 - [Weekly Notes 23/2026](https://thejeshgn.com/2026/06/05/weekly-notes-23-2026/)
 - [Uma’s New Playlist](https://thejeshgn.com/2026/06/05/umas-new-playlist/)
 - [Who Calls a Child Anti-National?](https://thejeshgn.com/2026/06/04/who-calls-a-child-anti-national/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 22/2026](https://thejeshgn.com/2026/05/29/weekly-notes-22-2026/)
 - [Weekly Notes 21/2026](https://thejeshgn.com/2026/05/22/weekly-notes-21-2026/)
 - [Embedding user code in your app using Extism](https://thejeshgn.com/2026/05/19/embedding-user-code-in-your-app-using-extism/)
-- [Weekly Notes 20/2026](https://thejeshgn.com/2026/05/15/weekly-notes-20-2026/)
 <!-- BLOG-POST-LIST:END -->
