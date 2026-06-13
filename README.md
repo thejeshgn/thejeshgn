@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 24/2026](https://thejeshgn.com/2026/06/12/weekly-notes-24-2026/)
 - [Exploring Epicure the Food Embedding Model](https://thejeshgn.com/2026/06/11/exploring-epicure-the-food-embedding-model/)
 - [Weekly Notes 23/2026](https://thejeshgn.com/2026/06/05/weekly-notes-23-2026/)
 - [Uma’s New Playlist](https://thejeshgn.com/2026/06/05/umas-new-playlist/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Micro-granting in India – BoF at IndiaFOSS/2026](https://thejeshgn.com/2026/06/01/micro-granting-in-india-bof-at-indiafoss-2026/)
 - [Weekly Notes 22/2026](https://thejeshgn.com/2026/05/29/weekly-notes-22-2026/)
 - [Weekly Notes 21/2026](https://thejeshgn.com/2026/05/22/weekly-notes-21-2026/)
-- [Embedding user code in your app using Extism](https://thejeshgn.com/2026/05/19/embedding-user-code-in-your-app-using-extism/)
 <!-- BLOG-POST-LIST:END -->
