@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thank you for attending Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/18/thank-you-for-attending-back-to-basics-build-your-own-llm-from-scratch/)
 - [Development as Freedom](https://thejeshgn.com/2026/06/16/development-as-freedom/)
 - [Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/14/back-to-basics-build-your-own-llm-from-scratch/)
 - [Weekly Notes 24/2026](https://thejeshgn.com/2026/06/12/weekly-notes-24-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 23/2026](https://thejeshgn.com/2026/06/05/weekly-notes-23-2026/)
 - [Uma’s New Playlist](https://thejeshgn.com/2026/06/05/umas-new-playlist/)
 - [Who Calls a Child Anti-National?](https://thejeshgn.com/2026/06/04/who-calls-a-child-anti-national/)
-- [Micro-granting in India – BoF at IndiaFOSS/2026](https://thejeshgn.com/2026/06/01/micro-granting-in-india-bof-at-indiafoss-2026/)
 <!-- BLOG-POST-LIST:END -->
