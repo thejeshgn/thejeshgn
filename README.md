@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 25/2026](https://thejeshgn.com/2026/06/19/weekly-notes-25-2026/)
 - [Thank you for attending Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/18/thank-you-for-attending-back-to-basics-build-your-own-llm-from-scratch/)
 - [Development as Freedom](https://thejeshgn.com/2026/06/16/development-as-freedom/)
 - [Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/14/back-to-basics-build-your-own-llm-from-scratch/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Exploring Epicure the Food Embedding Model](https://thejeshgn.com/2026/06/11/exploring-epicure-the-food-embedding-model/)
 - [Weekly Notes 23/2026](https://thejeshgn.com/2026/06/05/weekly-notes-23-2026/)
 - [Uma’s New Playlist](https://thejeshgn.com/2026/06/05/umas-new-playlist/)
-- [Who Calls a Child Anti-National?](https://thejeshgn.com/2026/06/04/who-calls-a-child-anti-national/)
 <!-- BLOG-POST-LIST:END -->
