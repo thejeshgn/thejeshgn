@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ride to Tamarind Valley Collective](https://thejeshgn.com/2026/06/22/ride-to-tamarind-valley-collective/)
 - [Weekly Notes 25/2026](https://thejeshgn.com/2026/06/19/weekly-notes-25-2026/)
 - [Thank you for attending Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/18/thank-you-for-attending-back-to-basics-build-your-own-llm-from-scratch/)
 - [Development as Freedom](https://thejeshgn.com/2026/06/16/development-as-freedom/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 24/2026](https://thejeshgn.com/2026/06/12/weekly-notes-24-2026/)
 - [Exploring Epicure the Food Embedding Model](https://thejeshgn.com/2026/06/11/exploring-epicure-the-food-embedding-model/)
 - [Weekly Notes 23/2026](https://thejeshgn.com/2026/06/05/weekly-notes-23-2026/)
-- [Uma’s New Playlist](https://thejeshgn.com/2026/06/05/umas-new-playlist/)
 <!-- BLOG-POST-LIST:END -->
