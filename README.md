@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building kannada-kasturi-embeddings](https://thejeshgn.com/2026/07/01/building-kannada-kasturi-embeddings/)
 - [Weekly Notes 26/2026](https://thejeshgn.com/2026/06/26/weekly-notes-26-2026/)
 - [Ride to Tamarind Valley Collective](https://thejeshgn.com/2026/06/22/ride-to-tamarind-valley-collective/)
 - [Weekly Notes 25/2026](https://thejeshgn.com/2026/06/19/weekly-notes-25-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Development as Freedom](https://thejeshgn.com/2026/06/16/development-as-freedom/)
 - [Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/14/back-to-basics-build-your-own-llm-from-scratch/)
 - [Weekly Notes 24/2026](https://thejeshgn.com/2026/06/12/weekly-notes-24-2026/)
-- [Exploring Epicure the Food Embedding Model](https://thejeshgn.com/2026/06/11/exploring-epicure-the-food-embedding-model/)
 <!-- BLOG-POST-LIST:END -->
