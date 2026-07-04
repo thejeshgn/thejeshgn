@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 27/2026](https://thejeshgn.com/2026/07/03/weekly-notes-27-2026/)
 - [Getting Started with SimulIDE and Arduino](https://thejeshgn.com/2026/07/03/getting-started-with-simulide-and-arduino/)
 - [Building kannada-kasturi-embeddings](https://thejeshgn.com/2026/07/01/building-kannada-kasturi-embeddings/)
 - [Weekly Notes 26/2026](https://thejeshgn.com/2026/06/26/weekly-notes-26-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 25/2026](https://thejeshgn.com/2026/06/19/weekly-notes-25-2026/)
 - [Thank you for attending Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/18/thank-you-for-attending-back-to-basics-build-your-own-llm-from-scratch/)
 - [Development as Freedom](https://thejeshgn.com/2026/06/16/development-as-freedom/)
-- [Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/14/back-to-basics-build-your-own-llm-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
