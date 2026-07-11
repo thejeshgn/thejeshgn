@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 28/2026](https://thejeshgn.com/2026/07/10/weekly-notes-28-2026/)
 - [SIR Online: Everything Is Difficult by Design](https://thejeshgn.com/2026/07/09/sir-online-everything-is-difficult-by-design/)
 - [Weekly Notes 27/2026](https://thejeshgn.com/2026/07/03/weekly-notes-27-2026/)
 - [Getting Started with SimulIDE and Arduino](https://thejeshgn.com/2026/07/03/getting-started-with-simulide-and-arduino/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 26/2026](https://thejeshgn.com/2026/06/26/weekly-notes-26-2026/)
 - [Ride to Tamarind Valley Collective](https://thejeshgn.com/2026/06/22/ride-to-tamarind-valley-collective/)
 - [Weekly Notes 25/2026](https://thejeshgn.com/2026/06/19/weekly-notes-25-2026/)
-- [Thank you for attending Back to Basics: Build Your Own LLM from Scratch](https://thejeshgn.com/2026/06/18/thank-you-for-attending-back-to-basics-build-your-own-llm-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
