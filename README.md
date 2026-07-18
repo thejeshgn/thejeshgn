@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 29/2026](https://thejeshgn.com/2026/07/17/weekly-notes-29-2026/)
 - [Linked List : Annotating Photos for Humans and Machines](https://thejeshgn.com/2026/07/14/linked-list-annotating-photos-for-humans-and-machines/)
 - [Weekly Notes 28/2026](https://thejeshgn.com/2026/07/10/weekly-notes-28-2026/)
 - [SIR Online: Everything Is Difficult by Design](https://thejeshgn.com/2026/07/09/sir-online-everything-is-difficult-by-design/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Getting Started with SimulIDE and Arduino](https://thejeshgn.com/2026/07/03/getting-started-with-simulide-and-arduino/)
 - [Building kannada-kasturi-embeddings](https://thejeshgn.com/2026/07/01/building-kannada-kasturi-embeddings/)
 - [Weekly Notes 26/2026](https://thejeshgn.com/2026/06/26/weekly-notes-26-2026/)
-- [Ride to Tamarind Valley Collective](https://thejeshgn.com/2026/06/22/ride-to-tamarind-valley-collective/)
 <!-- BLOG-POST-LIST:END -->
