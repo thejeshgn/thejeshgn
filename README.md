@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ride to Gandikota](https://thejeshgn.com/2026/07/25/ride-to-gandikota/)
 - [Weekly Notes 30/2026](https://thejeshgn.com/2026/07/24/weekly-notes-30-2026/)
 - [Weekly Notes 29/2026](https://thejeshgn.com/2026/07/17/weekly-notes-29-2026/)
 - [Linked List : Annotating Photos for Humans and Machines](https://thejeshgn.com/2026/07/14/linked-list-annotating-photos-for-humans-and-machines/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [SIR Online: Everything Is Difficult by Design](https://thejeshgn.com/2026/07/09/sir-online-everything-is-difficult-by-design/)
 - [Weekly Notes 27/2026](https://thejeshgn.com/2026/07/03/weekly-notes-27-2026/)
 - [Getting Started with SimulIDE and Arduino](https://thejeshgn.com/2026/07/03/getting-started-with-simulide-and-arduino/)
-- [Building kannada-kasturi-embeddings](https://thejeshgn.com/2026/07/01/building-kannada-kasturi-embeddings/)
 <!-- BLOG-POST-LIST:END -->
