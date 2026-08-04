@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Again](https://thejeshgn.com/2026/08/03/running-again/)
 - [Weekly Notes 31/2026](https://thejeshgn.com/2026/07/31/weekly-notes-31-2026/)
 - [Ride to Gandikota](https://thejeshgn.com/2026/07/25/ride-to-gandikota/)
 - [Weekly Notes 30/2026](https://thejeshgn.com/2026/07/24/weekly-notes-30-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Linked List : Annotating Photos for Humans and Machines](https://thejeshgn.com/2026/07/14/linked-list-annotating-photos-for-humans-and-machines/)
 - [Weekly Notes 28/2026](https://thejeshgn.com/2026/07/10/weekly-notes-28-2026/)
 - [SIR Online: Everything Is Difficult by Design](https://thejeshgn.com/2026/07/09/sir-online-everything-is-difficult-by-design/)
-- [Weekly Notes 27/2026](https://thejeshgn.com/2026/07/03/weekly-notes-27-2026/)
 <!-- BLOG-POST-LIST:END -->
