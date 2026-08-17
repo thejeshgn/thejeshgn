@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedding Workouts using Web Component](https://thejeshgn.com/2026/08/16/embedding-workouts-using-web-component/)
 - [Weekly Notes 33/2026](https://thejeshgn.com/2026/08/14/weekly-notes-33-2026/)
 - [Weekly Notes 32/2026](https://thejeshgn.com/2026/08/07/weekly-notes-32-2026/)
 - [Running Again](https://thejeshgn.com/2026/08/03/running-again/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Ride to Gandikota](https://thejeshgn.com/2026/07/25/ride-to-gandikota/)
 - [Weekly Notes 30/2026](https://thejeshgn.com/2026/07/24/weekly-notes-30-2026/)
 - [Weekly Notes 29/2026](https://thejeshgn.com/2026/07/17/weekly-notes-29-2026/)
-- [Linked List : Annotating Photos for Humans and Machines](https://thejeshgn.com/2026/07/14/linked-list-annotating-photos-for-humans-and-machines/)
 <!-- BLOG-POST-LIST:END -->
