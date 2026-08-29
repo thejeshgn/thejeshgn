@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 35/2026](https://thejeshgn.com/2026/08/28/weekly-notes-35-2026/)
 - [Exploring 1-Bit LLMs](https://thejeshgn.com/2026/08/25/exploring-1-bit-llms/)
 - [Weekly Notes 34/2026](https://thejeshgn.com/2026/08/21/weekly-notes-34-2026/)
 - [Embedding Workouts using Web Component](https://thejeshgn.com/2026/08/16/embedding-workouts-using-web-component/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 32/2026](https://thejeshgn.com/2026/08/07/weekly-notes-32-2026/)
 - [Running Again](https://thejeshgn.com/2026/08/03/running-again/)
 - [Weekly Notes 31/2026](https://thejeshgn.com/2026/07/31/weekly-notes-31-2026/)
-- [Ride to Gandikota](https://thejeshgn.com/2026/07/25/ride-to-gandikota/)
 <!-- BLOG-POST-LIST:END -->
