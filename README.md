@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Loading Indian Maps on a Garmin Forerunner 965](https://thejeshgn.com/2026/09/05/lloading-indian-maps-garmin-forerunner-965/)
 - [Weekly Notes 36/2026](https://thejeshgn.com/2026/09/04/weekly-notes-36-2026/)
 - [Weekly Notes 35/2026](https://thejeshgn.com/2026/08/28/weekly-notes-35-2026/)
 - [Exploring 1-Bit LLMs](https://thejeshgn.com/2026/08/25/exploring-1-bit-llms/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Embedding Workouts using Web Component](https://thejeshgn.com/2026/08/16/embedding-workouts-using-web-component/)
 - [Weekly Notes 33/2026](https://thejeshgn.com/2026/08/14/weekly-notes-33-2026/)
 - [Weekly Notes 32/2026](https://thejeshgn.com/2026/08/07/weekly-notes-32-2026/)
-- [Running Again](https://thejeshgn.com/2026/08/03/running-again/)
 <!-- BLOG-POST-LIST:END -->
