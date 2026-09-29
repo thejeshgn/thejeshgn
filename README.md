@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Do We Get More Microgrants in India?](https://thejeshgn.com/2026/09/28/how-do-we-get-more-microgrants-in-india/)
 - [Weekly Notes 39/2026](https://thejeshgn.com/2026/09/25/weekly-notes-39-2026/)
 - [Weekly Notes 38/2026](https://thejeshgn.com/2026/09/18/weekly-notes-38-2026/)
 - [Why Garmin Forerunner 965?](https://thejeshgn.com/2026/09/12/why-garmin-forerunner-965/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Loading Indian Maps on a Garmin Forerunner 965](https://thejeshgn.com/2026/09/05/lloading-indian-maps-garmin-forerunner-965/)
 - [Weekly Notes 36/2026](https://thejeshgn.com/2026/09/04/weekly-notes-36-2026/)
 - [Weekly Notes 35/2026](https://thejeshgn.com/2026/08/28/weekly-notes-35-2026/)
-- [Exploring 1-Bit LLMs](https://thejeshgn.com/2026/08/25/exploring-1-bit-llms/)
 <!-- BLOG-POST-LIST:END -->
