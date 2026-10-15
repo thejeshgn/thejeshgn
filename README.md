@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Reticulum](https://thejeshgn.com/2026/10/14/getting-started-with-reticulum/)
 - [46](https://thejeshgn.com/2026/10/12/46/)
 - [Weekly Notes 41/2026](https://thejeshgn.com/2026/10/09/weekly-notes-41-2026/)
 - [Weekly Notes 40/2026](https://thejeshgn.com/2026/10/02/weekly-notes-40-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Weekly Notes 39/2026](https://thejeshgn.com/2026/09/25/weekly-notes-39-2026/)
 - [Weekly Notes 38/2026](https://thejeshgn.com/2026/09/18/weekly-notes-38-2026/)
 - [Why Garmin Forerunner 965?](https://thejeshgn.com/2026/09/12/why-garmin-forerunner-965/)
-- [Weekly Notes 37/2026](https://thejeshgn.com/2026/09/11/weekly-notes-37-2026/)
 <!-- BLOG-POST-LIST:END -->
