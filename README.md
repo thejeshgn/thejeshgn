@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 43/2026](https://thejeshgn.com/2026/10/23/weekly-notes-43-2026/)
 - [Messaging with Reticulum and LXMF](https://thejeshgn.com/2026/10/22/messaging-with-reticulum-and-lxmf/)
 - [Thejesh Gangaiah Nagarathna](https://thejeshgn.com/2026/10/17/thejesh-gangaiah-nagarathna/)
 - [Weekly Notes 42/2026](https://thejeshgn.com/2026/10/16/weekly-notes-42-2026/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [46](https://thejeshgn.com/2026/10/12/46/)
 - [Weekly Notes 41/2026](https://thejeshgn.com/2026/10/09/weekly-notes-41-2026/)
 - [Weekly Notes 40/2026](https://thejeshgn.com/2026/10/02/weekly-notes-40-2026/)
-- [How Do We Get More Microgrants in India?](https://thejeshgn.com/2026/09/28/how-do-we-get-more-microgrants-in-india/)
 <!-- BLOG-POST-LIST:END -->
