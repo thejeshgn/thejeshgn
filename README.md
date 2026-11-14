@@ -12,6 +12,7 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 46/2026](https://thejeshgn.com/2026/11/13/weekly-notes-46-2026/)
 - [Weekly Notes 45/2026](https://thejeshgn.com/2026/11/06/weekly-notes-45-2026/)
 - [Weekly Notes 44/2026](https://thejeshgn.com/2026/10/30/weekly-notes-44-2026/)
 - [A Public Reticulum Backbone Interface in India](https://thejeshgn.com/2026/10/26/a-public-reticulum-backbone-interface-in-india/)
@@ -19,5 +20,4 @@ You can subscribe to his personal blog by RSS: [All posts](https://feeds.thejesh
 - [Messaging with Reticulum and LXMF](https://thejeshgn.com/2026/10/22/messaging-with-reticulum-and-lxmf/)
 - [Thejesh Gangaiah Nagarathna](https://thejeshgn.com/2026/10/17/thejesh-gangaiah-nagarathna/)
 - [Weekly Notes 42/2026](https://thejeshgn.com/2026/10/16/weekly-notes-42-2026/)
-- [Getting Started with Reticulum](https://thejeshgn.com/2026/10/14/getting-started-with-reticulum/)
 <!-- BLOG-POST-LIST:END -->
